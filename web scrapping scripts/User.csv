@@ -1,0 +1,1001 @@
+user_id,username,rating,rank,max_rating,contribution,organization_id,friend_count,registration_date,city,country_id,max_streak,problems_solved
+1,tourist,4009,tourist,4009,0,1,74093,2010-02-12,Gomel,1,5,2641
+2,Radewoosh,3646,"legendary grandmaster",3759,0,2,11749,2013-11-23,Warsaw,2,6,4025
+3,jqdai0815,3620,"legendary grandmaster",3681,0,3,13387,2011-05-24,Falefa,3,3,1853
+4,cnnfls_csy,3569,"legendary grandmaster",3690,0,4,1989,2017-01-18,Nanjing,4,18,854
+5,gyh20,3447,"legendary grandmaster",3447,0,5,1146,2019-11-06,Chongqing,4,19,1311
+6,Rebelz,3409,"legendary grandmaster",3415,0,6,1359,2018-01-10,Beijing,4,16,1639
+7,ksun48,3373,"legendary grandmaster",3654,0,7,5385,2012-01-06,,5,7,3377
+8,turmax,3352,"legendary grandmaster",3352,0,8,801,2018-08-26,"Saint Petersburg",6,16,2721
+9,Rewinding,3320,"legendary grandmaster",3659,0,9,4946,2018-02-16,Beijing,4,15,1144
+10,scott_wu,3297,"legendary grandmaster",3350,0,10,3830,2010-12-28,"San Francisco",7,6,1693
+11,conqueror_of_tourist,3260,"legendary grandmaster",3260,0,11,1722,2014-09-17,,7,8,1545
+12,disorientation,3219,"legendary grandmaster",3219,0,NULL,222,2022-01-24,,7,3,376
+13,WYZFL,3200,"legendary grandmaster",3200,0,NULL,177,2022-05-05,,NULL,3,96
+14,dXqwq,3188,"legendary grandmaster",3188,0,12,1401,2019-01-31,Zhijiang,4,13,1797
+15,Ormlis,3168,"legendary grandmaster",3410,0,13,1706,2019-09-18,Barnaul,6,33,4060
+16,fateice,3151,"legendary grandmaster",3337,0,14,1297,2014-10-18,Fuzhou,4,4,245
+17,QAQAutoMaton,3143,"legendary grandmaster",3428,0,9,1259,2016-07-30,Changsha,4,10,1071
+18,p_b_p_b,3137,"legendary grandmaster",3137,0,9,454,2018-03-17,Beijing,4,13,795
+19,ko_osaga,3136,"legendary grandmaster",3500,0,7,3241,2014-05-05,,8,13,2283
+20,maspy,3129,"legendary grandmaster",3385,0,NULL,1974,2021-05-24,Tokyo,9,34,9454
+21,PubabaOnO,3127,"legendary grandmaster",3225,0,12,375,2021-03-11,Hangzhou,4,12,412
+22,peti1234,3112,"legendary grandmaster",3112,0,15,969,2016-06-08,,10,110,5359
+23,Elegia,3109,"legendary grandmaster",3177,0,16,1922,2017-05-31,Beijing,4,8,1222
+24,wangziji,3096,"legendary grandmaster",3096,0,6,283,2018-03-23,Zhijiang,4,9,744
+25,xay5421,3093,"legendary grandmaster",3093,0,17,418,2018-01-05,Hangzhou,4,21,1003
+26,kiwihadron,3089,"legendary grandmaster",3114,0,9,215,2017-11-03,Beijing,4,3,90
+27,Szoboszlai10,3083,"legendary grandmaster",3083,0,18,87,2019-05-26,,11,8,446
+28,Laurie,3074,"legendary grandmaster",3118,0,NULL,335,2021-02-23,Weihai,4,2,154
+29,crazy_sea,3073,"legendary grandmaster",3146,0,19,209,2020-04-27,Zhongshan,4,5,423
+30,JoesSR,3070,"legendary grandmaster",3070,0,NULL,129,2020-04-14,,NULL,11,1752
+31,Qingyu,3065,"legendary grandmaster",3065,0,20,778,2018-05-28,,NULL,18,773
+32,dotorya,3060,"legendary grandmaster",3237,0,21,1832,2013-03-15,Seoul,8,11,2450
+33,skip2004,3052,"legendary grandmaster",3075,0,9,560,2017-12-31,Beijing,4,23,966
+34,AlternatingCurrent,3047,"legendary grandmaster",3047,0,22,147,2018-07-15,,4,5,688
+35,liuhengxi,3045,"legendary grandmaster",3045,0,23,252,2019-11-05,Ningbo,4,35,1631
+36,kotatsugame,3043,"legendary grandmaster",3094,0,24,1340,2016-10-15,,9,15,3421
+37,gisp_zjz,3033,"legendary grandmaster",3213,0,25,729,2017-09-25,Nanjing,4,8,1789
+38,1a2b3c4,3029,"legendary grandmaster",3029,0,26,72,2017-07-04,,NULL,3,82
+39,duality,3023,"legendary grandmaster",3341,0,NULL,902,2018-02-23,London,5,13,1180
+40,zx2003,3013,"legendary grandmaster",3013,0,17,369,2017-04-22,Hangzhou,4,17,851
+41,aaaaawa,3011,"legendary grandmaster",3046,0,27,209,2018-05-16,Wuhu,4,6,476
+42,arvindf232,3007,"legendary grandmaster",3081,0,28,929,2019-08-09,,12,53,5468
+43,Kubic,3004,"legendary grandmaster",3004,0,NULL,335,2019-06-02,,4,12,682
+44,whzzt,2995,"international grandmaster",3025,0,14,599,2016-03-30,Wuhu,4,4,660
+45,xuanxuan001,2988,"international grandmaster",2988,0,29,135,2020-02-02,Beijing,4,16,1087
+46,Swistakk,2984,"international grandmaster",3105,0,2,2006,2012-05-14,Warsaw,2,6,2022
+47,lumibons,2976,"international grandmaster",3151,0,30,189,2017-10-21,,13,3,841
+48,errorgorn,2974,"international grandmaster",2974,0,31,1187,2019-05-17,Singapore,14,17,2132
+49,yuto1115,2971,"international grandmaster",3051,0,32,180,2020-03-05,,9,8,871
+50,yosupo,2964,"international grandmaster",3369,0,33,1109,2013-06-22,Tokyo,9,7,1513
+51,He_Ren,2950,"international grandmaster",3020,0,14,642,2019-01-31,Weifang,4,16,2194
+52,MagicalFlower,2948,"international grandmaster",3069,0,6,697,2018-12-16,Beijing,4,9,1272
+53,StarSilk,2946,"international grandmaster",3132,0,34,1193,2022-07-09,,4,31,3257
+54,froggyzhang,2940,"international grandmaster",2940,0,35,446,2019-03-03,Shaoxing,4,66,2504
+55,cat_of_Nesraychan,2933,"international grandmaster",2933,0,36,124,2021-07-18,Fuzhou,4,10,478
+56,Alex_Wei,2926,"international grandmaster",2998,0,4,991,2019-05-13,Nanjing,4,19,2440
+57,Anadi,2923,"international grandmaster",2957,0,37,720,2014-12-15,,NULL,11,3059
+58,huangzirui,2923,"international grandmaster",2923,0,38,214,2018-09-20,Changsha,4,7,452
+59,jiry_2,2920,"international grandmaster",2920,0,39,964,2013-11-02,Beijing,4,17,588
+60,Errichto,2916,"international grandmaster",3053,0,40,21311,2013-05-29,Warsaw,2,7,1579
+61,PinkRabbitAFO,2913,"international grandmaster",2913,0,41,1627,2016-08-07,Fuzhou,4,9,1203
+62,shiomusubi496,2909,"international grandmaster",2909,0,NULL,69,2020-07-14,,9,3,338
+63,hank55663,2904,"international grandmaster",3064,0,42,788,2014-03-25,Taipei,15,10,5378
+64,krijgertje,2900,"international grandmaster",3001,0,NULL,438,2010-05-31,Enschede,16,9,5271
+65,xcyle,2900,"international grandmaster",2900,0,43,154,2021-01-01,Beijing,4,12,1132
+66,jeroenodb,2894,"international grandmaster",2999,0,44,643,2020-05-18,Delft,16,31,2986
+67,dl720125,2888,"international grandmaster",2944,0,22,123,2019-01-21,Nanjing,4,3,354
+68,Licha06,2885,"international grandmaster",2885,0,45,26,2019-08-10,,NULL,5,305
+69,femboy-wannabe,2883,"international grandmaster",2892,0,NULL,251,2023-10-19,,NULL,2,230
+70,Adam_GS,2876,"international grandmaster",2896,0,46,679,2020-03-29,Warsaw,2,28,2104
+71,stepanov.aa,2869,"international grandmaster",2869,0,47,139,2019-10-05,Moscow,6,9,641
+72,Amoo_Safar,2867,"international grandmaster",2982,0,48,950,2018-03-21,Tehran,17,14,2280
+73,The_Noble_Brahman_Bison,2866,"international grandmaster",2866,0,4,57,2020-02-11,,4,0,92
+74,user202729_,2863,"international grandmaster",2863,0,NULL,750,2016-03-08,,NULL,31,1734
+75,ymmparsa,2859,"international grandmaster",2859,0,NULL,352,2019-11-08,Tehran,17,19,1608
+76,Little09,2852,"international grandmaster",2852,0,49,176,2020-12-15,Hangzhou,4,3,148
+77,PCTprobability,2850,"international grandmaster",2883,0,50,309,2020-07-19,,9,6,522
+78,ch_egor,2848,"international grandmaster",2848,0,51,403,2014-10-18,Amsterdam,16,5,637
+79,GroupMatrix,2845,"international grandmaster",2845,0,52,103,2022-03-16,,4,5,96
+80,Marcin_smu,2845,"international grandmaster",3126,0,2,512,2010-10-24,Warsaw,2,6,1372
+81,Dominater069,2842,"international grandmaster",2842,0,53,6782,2022-08-09,Kolkata,18,28,2662
+82,MAOooOAM,2839,"international grandmaster",2839,0,54,110,2020-01-10,,4,16,619
+83,cmk666,2835,"international grandmaster",2919,0,17,101,2021-12-09,,11,13,1381
+84,Sulfox,2834,"international grandmaster",2921,0,55,738,2018-01-07,,4,28,1739
+85,tatyam,2834,"international grandmaster",3134,0,56,377,2018-04-03,,9,4,1021
+86,TLE,2833,"international grandmaster",3374,0,9,3021,2013-11-21,Fuzhou,4,8,1479
+87,fengqiyuka,2830,"international grandmaster",2885,0,19,90,2018-07-03,,4,8,439
+88,Gary2005,2829,"international grandmaster",2829,0,14,442,2019-08-11,Yangzhou,4,17,1473
+89,alireza_kaviani,2826,"international grandmaster",3012,0,57,1187,2017-10-20,Tehran,17,48,3207
+90,daubi,2822,"international grandmaster",2960,0,NULL,329,2018-10-03,Moscow,6,39,1662
+91,RNS_CUS,2816,"international grandmaster",2816,0,58,89,2015-06-16,Pyongyang,19,20,1902
+92,chenshi028,2815,"international grandmaster",2815,0,59,102,2018-12-22,Chengdu,4,7,353
+93,PinkieRabbit,2814,"international grandmaster",2956,0,9,1939,2019-01-17,Fuzhou,4,6,598
+94,rqi,2813,"international grandmaster",2931,0,10,225,2015-08-10,,7,11,1276
+95,never_giveup,2807,"international grandmaster",3096,0,60,873,2014-08-28,Mytishchi,6,4,1060
+96,Pointy,2805,"international grandmaster",2823,0,17,126,2020-08-03,Hangzhou,4,11,1244
+97,vintage_Vlad_Makeev,2804,"international grandmaster",2804,0,60,1138,2013-12-09,,NULL,11,2093
+98,snuke,2802,"international grandmaster",3251,0,61,978,2011-01-30,Tokyo,9,4,823
+99,nocriz,2788,"international grandmaster",2950,0,62,519,2016-08-29,Jinan,4,7,1013
+100,ainta,2782,"international grandmaster",3318,0,63,2054,2011-06-26,Seoul,8,7,2669
+101,Z-301,2781,"international grandmaster",2781,0,9,56,2021-09-20,,NULL,8,834
+102,Roundgod,2780,"international grandmaster",2814,0,25,1165,2014-10-12,Nanjing,4,19,3485
+103,Flamire,2777,"international grandmaster",3024,0,NULL,375,2018-11-18,,NULL,9,1378
+104,Burunduk1,2776,"international grandmaster",2776,0,64,959,2010-02-03,"Saint Petersburg",6,3,421
+105,Pyqe,2774,"international grandmaster",2994,0,NULL,671,2018-07-05,,20,25,4406
+106,CJ_xde_pt,2769,"international grandmaster",2769,0,NULL,60,2023-02-01,,NULL,2,68
+107,greatpaul2008,2769,"international grandmaster",2769,0,NULL,32,2021-09-06,,NULL,2,50
+108,DoorhandleMahoushoujo,2767,"international grandmaster",2921,0,65,46,2020-10-01,,4,3,120
+109,ttklwxx,2765,"international grandmaster",2903,0,66,151,2018-10-20,Zhijiang,4,9,1365
+110,SHZhang,2763,"international grandmaster",2805,0,7,178,2019-04-26,,7,8,759
+111,Kirill22,2762,"international grandmaster",2775,0,67,471,2018-05-15,Ivanovo,6,16,3940
+112,YeongTree,2759,"international grandmaster",2765,0,21,231,2016-04-03,Incheon,8,5,1050
+113,Isoeasy,2757,"international grandmaster",2771,0,17,164,2019-06-12,,4,20,1001
+114,by_chance,2757,"international grandmaster",2802,0,NULL,40,2021-10-24,Wenzhou,4,6,375
+115,ppavic,2755,"international grandmaster",2755,0,68,430,2016-01-08,Zagreb,21,8,1034
+116,asdsasd,2754,"international grandmaster",2886,0,NULL,156,2020-08-20,Tokyo,9,5,1341
+117,Vercingetorix,2753,"international grandmaster",3213,0,NULL,658,2014-04-05,Sochi,6,250,5077
+118,-skyline-,2749,"international grandmaster",2749,0,9,385,2014-01-17,,4,32,1367
+119,BalintR,2747,"international grandmaster",2914,0,NULL,168,2021-06-12,,5,3,572
+120,Wuyanru,2746,"international grandmaster",2746,0,69,144,2021-02-21,Xi'an,4,8,927
+121,Aokana,2745,"international grandmaster",2754,0,70,72,2021-06-08,Beijing,4,6,180
+122,hyman00,2744,"international grandmaster",2824,0,71,188,2020-02-05,,4,26,1539
+123,lqx2005,2742,"international grandmaster",2769,0,12,109,2018-07-30,,NULL,14,970
+124,liympanda,2740,"international grandmaster",2790,0,72,473,2010-10-18,Shanghai,4,8,2677
+125,simonlindholm,2739,"international grandmaster",2801,0,73,220,2013-12-16,Stockholm,22,3,385
+126,EnofTaiPeople,2735,"international grandmaster",2735,0,74,122,2021-08-06,Changsha,4,12,816
+127,DPprince,2731,"international grandmaster",2731,0,75,50,2021-08-10,,4,2,63
+128,Brovko,2730,"international grandmaster",2894,0,76,243,2017-09-28,Saratov,6,42,4797
+129,YocyCraft,2729,"international grandmaster",2739,0,NULL,1084,2022-02-13,,4,64,2151
+130,LeoPro,2726,"international grandmaster",2886,0,8,219,2017-12-02,"Saint Petersburg",6,10,2100
+131,BeyondHeaven,2724,"international grandmaster",2787,0,NULL,79,2020-01-04,,NULL,15,560
+132,wygzgyw,2724,"international grandmaster",2724,0,39,216,2018-07-31,Shanghai,4,14,1589
+133,arsijo,2723,"international grandmaster",2733,0,77,644,2014-10-06,Kyiv,23,7,1461
+134,umbrella-leaf,2722,"international grandmaster",2728,0,78,99,2020-10-04,Zhuji,4,16,1053
+135,izban,2719,"international grandmaster",2953,0,79,594,2011-08-26,London,24,7,1782
+136,rniya,2718,"international grandmaster",2718,0,80,136,2020-03-25,,9,15,2543
+137,namelessgugugu,2717,"international grandmaster",2717,0,81,89,2020-04-26,Shenzhen,4,6,407
+138,step_by_step,2716,"international grandmaster",2828,0,NULL,503,2015-07-10,,NULL,15,2231
+139,teraqqq,2715,"international grandmaster",2818,0,67,419,2017-08-06,Krasnoyarsk,6,14,1273
+140,AutumnKite,2714,"international grandmaster",2871,0,35,243,2017-07-28,Shaoxing,4,21,1927
+141,LipArcanjo,2712,"international grandmaster",2712,0,82,289,2018-04-13,"São Paulo",25,18,2663
+142,nantf,2712,"international grandmaster",2906,0,83,358,2018-02-01,,4,5,823
+143,geniucos,2711,"international grandmaster",3045,0,84,701,2013-04-13,"Campulung Muscel",26,7,1106
+144,wyrqwq,2709,"international grandmaster",2757,0,85,170,2023-08-01,,NULL,3,140
+145,kradcigam,2706,"international grandmaster",2706,0,86,78,2021-07-09,Changzhou,4,9,336
+146,chenjb,2705,"international grandmaster",2735,0,20,1242,2015-05-19,Guangzhou,4,6,1696
+147,m_99,2704,"international grandmaster",2959,0,NULL,240,2019-05-11,,9,6,1682
+148,hhoppitree,2703,"international grandmaster",2703,0,41,160,2020-01-05,Fuzhou,4,15,1005
+149,5sb,2702,"international grandmaster",2702,0,NULL,42,2022-10-11,,NULL,4,151
+150,RinkaSnow,2702,"international grandmaster",2711,0,NULL,272,2018-06-27,,NULL,35,1046
+151,Kodaman,2700,"international grandmaster",2700,0,80,89,2019-05-07,,9,12,978
+152,998kover,2697,"international grandmaster",3020,0,87,1274,2017-09-23,Almaty,27,17,3106
+153,fextivity,2696,"international grandmaster",2696,0,88,517,2018-07-14,Hanoi,28,2,149
+154,WiwiHo,2695,"international grandmaster",2695,0,89,383,2019-04-04,"New Taipei City",15,17,2504
+155,_lbw_,2693,"international grandmaster",2693,0,36,102,2020-11-01,Fuzhou,4,21,1436
+156,pashka,2692,"international grandmaster",2983,0,1,5048,2010-03-12,Bishkek,29,3,781
+157,wdnmdwrnmmp,2692,"international grandmaster",2692,0,NULL,62,2021-10-10,,NULL,8,652
+158,LuCpp,2691,"international grandmaster",2692,0,90,79,2020-08-25,,13,7,1325
+159,shb123,2691,"international grandmaster",2691,0,91,147,2013-07-24,Wenzhou,4,5,975
+160,wsyear,2691,"international grandmaster",2691,0,17,187,2020-09-12,Hangzhou,4,24,2511
+161,Temotoloraia,2690,"international grandmaster",2906,0,7,337,2015-01-31,Tbilisi,30,5,984
+162,ppltn,2689,"international grandmaster",2757,0,NULL,11,2024-01-10,,NULL,0,88
+163,JettyOller,2687,"international grandmaster",2938,0,NULL,1184,2018-01-18,,28,12,1733
+164,tabr,2687,"international grandmaster",2889,0,80,303,2018-12-04,Osaka,9,20,2096
+165,hzr,2686,"international grandmaster",2827,0,38,113,2020-10-20,Changsha,4,9,328
+166,alvingogo,2682,"international grandmaster",2747,0,89,201,2021-04-21,,15,11,1014
+167,laofudasuan,2682,"international grandmaster",2682,0,74,272,2016-01-24,Changsha,4,6,408
+168,BilyHurington,2679,"international grandmaster",2679,0,NULL,56,2019-07-12,Guangzhou,4,6,399
+169,saketh,2679,"international grandmaster",2771,0,92,520,2010-01-29,"New York",7,30,3091
+170,wifiii,2678,"international grandmaster",2678,0,NULL,31,2019-06-11,,NULL,6,256
+171,riantkb,2676,"international grandmaster",2676,0,NULL,134,2016-07-06,Tokyo,9,2,447
+172,lezdzh,2675,"international grandmaster",2754,0,93,84,2015-07-30,Shanghai,4,3,348
+173,komendart,2674,"international grandmaster",2674,0,94,247,2012-07-23,Moscow,6,7,767
+174,Chinese_zjc_,2673,"international grandmaster",2719,0,35,159,2019-04-06,,NULL,11,1408
+175,lastans,2673,"international grandmaster",2673,0,NULL,6,2016-07-18,,NULL,5,100
+176,AndreySergunin,2672,"international grandmaster",2997,0,51,301,2012-10-27,Amsterdam,16,12,1652
+177,KagamineRin,2671,"international grandmaster",2671,0,95,220,2020-05-16,,4,2,100
+178,jason_sun,2670,"international grandmaster",2670,0,5,79,2022-02-07,Chongqing,4,5,614
+179,LMydd0225,2668,"international grandmaster",2670,0,NULL,82,2023-01-29,,NULL,8,524
+180,yashChandnani,2668,"international grandmaster",2796,0,96,4534,2016-10-31,Jaipur,18,5,1025
+181,Aidos,2666,"international grandmaster",2666,0,97,826,2013-01-22,Kyzyl-Orda,27,19,4244
+182,TKT_YI,2666,"international grandmaster",2696,0,NULL,47,2020-09-26,Kyoto,9,3,1218
+183,niyaznigmatul,2665,"international grandmaster",2864,0,NULL,1528,2010-01-29,,NULL,8,1737
+184,almogwald,2662,"international grandmaster",2663,0,NULL,93,2015-03-22,,31,5,399
+185,huyinghao0706,2661,"international grandmaster",2661,0,98,41,2019-12-28,,4,2,75
+186,ffao,2660,"international grandmaster",2719,0,99,1223,2011-12-03,"Belo Horizonte",25,15,987
+187,cyh_toby,2659,"international grandmaster",2810,0,39,64,2020-01-19,Wuhan,4,22,749
+188,Apsara,2655,"international grandmaster",2655,0,100,97,2013-08-09,Chengdu,4,6,349
+189,dingdingsb,2655,"international grandmaster",2655,0,101,62,2019-08-26,Hangzhou,4,71,851
+190,fastmath,2654,"international grandmaster",2729,0,8,431,2019-09-14,"Saint Petersburg",6,22,3467
+191,skittles1412,2652,"international grandmaster",2716,0,102,273,2019-01-24,,11,32,1103
+192,yuanhaowei,2650,"international grandmaster",2650,0,103,66,2019-07-28,Changchun,4,8,728
+193,PersistentLife,2648,"international grandmaster",2648,0,104,115,2020-04-13,Zhijiang,4,11,645
+194,mtsd,2648,"international grandmaster",2879,0,NULL,97,2016-08-07,,9,6,1611
+195,frodakcin,2647,"international grandmaster",2783,0,10,292,2017-12-26,Sunnyvale,7,21,1084
+196,Otomachi_Una,2645,"international grandmaster",2729,0,105,405,2022-01-19,Guangzhou,4,12,809
+197,jjang36524,2644,"international grandmaster",2644,0,106,326,2019-07-21,Seoul,8,6,473
+198,wucstdio,2644,"international grandmaster",2873,0,39,690,2018-06-10,Beijing,4,13,930
+199,jacynkaa,2642,"international grandmaster",2754,0,107,105,2015-11-16,Krakow,2,8,1289
+200,cdkrot,2640,"international grandmaster",2733,0,108,688,2014-04-01,Amsterdam,16,4,1134
+201,Siberian,2638,"international grandmaster",2638,0,109,576,2018-08-11,Moscow,6,10,2456
+202,waynetuinfor,2637,"international grandmaster",2637,0,110,297,2016-10-22,Taipei,15,36,3961
+203,budalnik,2636,"international grandmaster",3014,0,1,940,2011-03-23,Kirov,6,11,2203
+204,chen_zexing,2635,"international grandmaster",2635,0,100,146,2020-05-14,,NULL,13,2846
+205,zidder,2635,"international grandmaster",2672,0,111,162,2013-10-03,Gyumri,32,17,1510
+206,MrDindows,2633,"international grandmaster",2845,0,112,814,2011-02-05,Zaporizhia,23,6,1710
+207,SoMuchDrama,2633,"international grandmaster",2633,0,NULL,213,2014-08-20,,33,6,808
+208,syx2567,2633,"international grandmaster",2651,0,43,30,2022-04-09,Beijing,4,7,401
+209,Toxel,2632,"international grandmaster",2901,0,113,279,2016-09-14,,4,16,2446
+210,KLPP,2631,"international grandmaster",2635,0,114,92,2017-05-16,Chaves,34,10,1977
+211,pigstd,2630,"international grandmaster",2640,0,115,251,2019-08-26,Hangzhou,4,19,919
+212,Atreus,2629,"international grandmaster",2729,0,48,617,2016-09-05,Tehran,17,20,2068
+213,ShimaRin,2629,"international grandmaster",2629,0,NULL,58,2018-06-01,,NULL,5,306
+214,Iscream2001,2627,"international grandmaster",2627,0,116,196,2018-03-21,Wenzhou,4,10,1217
+215,SirShokoladina,2626,"international grandmaster",2990,0,117,274,2010-02-25,Saratov,6,6,1008
+216,skylinebaby,2625,"international grandmaster",2625,0,110,174,2017-12-11,Taipei,15,4,1806
+217,KostasKostil,2622,"international grandmaster",2939,0,118,176,2018-02-28,Kyiv,23,9,1061
+218,YoshikaMiyafuji,2622,"international grandmaster",2639,0,NULL,70,2019-05-02,Yokohama,9,5,543
+219,Nakuru,2621,"international grandmaster",2621,0,9,12,2021-12-30,,11,2,38
+220,siganai,2620,"international grandmaster",2692,0,80,57,2022-03-10,,9,12,1464
+221,jdurie,2618,"international grandmaster",2705,0,NULL,333,2018-09-11,,7,13,4807
+222,Ronnie007,2617,"international grandmaster",2617,0,30,215,2012-08-20,Varna,35,28,3328
+223,wifiiii,2617,"international grandmaster",2719,0,119,383,2018-09-23,Guangzhou,4,20,2842
+224,Crabby_Maskiv,2615,"international grandmaster",2708,0,16,76,2018-07-14,Beijing,4,6,554
+225,Focalors,2614,"international grandmaster",2614,0,120,24,2022-05-08,,NULL,0,66
+226,yyyyxh,2614,"international grandmaster",2646,0,74,73,2020-10-06,Changsha,4,10,840
+227,VArtem,2611,"international grandmaster",2810,0,51,867,2010-11-05,Amsterdam,16,4,667
+228,mo_onrabbit2,2610,"international grandmaster",2612,0,121,223,2018-02-02,Yongin-si,8,4,521
+229,xukai,2610,"international grandmaster",2826,0,5,113,2021-11-16,Chongqing,4,7,614
+230,grass9cow,2607,"international grandmaster",2703,0,122,77,2023-03-29,Chengdu,4,0,80
+231,TheScrasse,2606,"international grandmaster",2702,0,123,1500,2019-10-24,Pisa,36,13,1349
+232,tonyjjw,2606,"international grandmaster",2606,0,21,112,2011-07-08,Seoul,8,5,503
+233,qwerty787788,2604,"international grandmaster",3038,0,1,1214,2011-06-30,Zaporizhia,23,9,1914
+234,Tlatoani,2603,"international grandmaster",2892,0,124,664,2017-09-15,Monterrey,37,14,1704
+235,kostka,2603,"international grandmaster",2784,0,NULL,1020,2014-01-01,,23,7,1157
+236,Factorio,2602,"international grandmaster",2602,0,125,45,2017-01-31,,4,2,96
+237,xllend3,2601,"international grandmaster",2601,0,14,147,2013-05-13,,4,7,293
+238,MicGor,2600,"international grandmaster",2600,0,NULL,178,2015-03-03,Wrocław,2,9,1996
+239,gloria_mundi,2599,grandmaster,2599,0,90,31,2022-08-01,,13,4,898
+240,Forza_Ferrari,2598,grandmaster,2613,0,126,222,2019-07-19,Qingdao,4,12,1148
+241,alexxela12345,2598,grandmaster,2739,0,127,200,2017-11-07,Moscow,6,4,1452
+242,dottle,2597,grandmaster,2739,0,128,247,2020-12-30,Mianyang,4,5,403
+243,chinerist,2596,grandmaster,2782,0,NULL,250,2020-04-13,,NULL,9,1221
+244,KrK,2595,grandmaster,2810,0,NULL,1555,2010-11-01,Kaunas,38,223,8332
+245,Farhod,2594,grandmaster,2976,0,129,1400,2014-09-29,Dushanbe,39,22,4370
+246,Potassium,2591,grandmaster,2759,0,NULL,206,2017-12-28,,NULL,18,2404
+247,rama_pang,2591,grandmaster,2866,0,32,517,2019-03-22,Jakarta,20,10,1698
+248,pb0207,2590,grandmaster,2672,0,91,196,2017-02-13,Hangzhou,4,19,1559
+249,Melania,2589,grandmaster,2589,0,6,73,2021-03-31,Beijing,4,3,175
+250,Bedge,2588,grandmaster,2588,0,NULL,207,2014-09-20,"Hong Kong",12,15,2458
+251,yfzcsc,2587,grandmaster,2729,0,59,160,2016-10-03,Chengdu,4,6,438
+252,CarrotCarrot,2585,grandmaster,2664,0,121,194,2018-03-09,Daejeon,8,4,679
+253,stevenkplus,2585,grandmaster,2874,0,7,1140,2011-11-08,"San Jose",7,17,2160
+254,zltzlt,2585,grandmaster,2630,0,130,558,2021-07-30,Guangzhou,4,55,4517
+255,minhcool,2584,grandmaster,2584,0,131,517,2017-06-15,Hanoi,28,10,1519
+256,yangster67,2583,grandmaster,2612,0,NULL,151,2020-09-08,,40,42,2989
+257,415411,2579,grandmaster,2579,0,NULL,81,2023-07-30,,NULL,7,405
+258,talant,2579,grandmaster,2666,0,47,376,2019-08-15,Moscow,6,54,2626
+259,littlelittlehorse,2578,grandmaster,2768,0,93,454,2013-08-09,Shaoxing,4,7,307
+260,0wuming0,2576,grandmaster,2648,0,NULL,61,2019-05-23,,NULL,19,2516
+261,arnold518,2573,grandmaster,2573,0,21,222,2015-09-01,Seoul,8,5,1262
+262,LZDQ,2572,grandmaster,2584,0,132,87,2019-02-16,,NULL,5,498
+263,Matutino,2570,grandmaster,2570,0,36,22,2021-09-15,,4,17,724
+264,xzzduang,2570,grandmaster,2570,0,133,72,2020-08-21,Guangzhou,4,14,567
+265,maximumSHOT,2569,grandmaster,2640,0,1,178,2014-05-07,Ufa,6,26,4512
+266,oipotato,2568,grandmaster,2568,0,91,146,2013-07-27,,4,9,2308
+267,josdas,2567,grandmaster,2567,0,1,273,2013-09-13,Chelyabinsk,6,9,654
+268,yuanruiqi,2567,grandmaster,2567,0,134,106,2022-04-14,Yancheng,4,72,1181
+269,Sorting,2566,grandmaster,2640,0,30,200,2017-02-21,Rousse,35,9,1458
+270,gop2024,2566,grandmaster,3290,0,94,631,2016-08-20,Moscow,6,9,2163
+271,Hisiri,2565,grandmaster,2630,0,NULL,20,2022-01-03,,NULL,5,758
+272,SodiumCl10,2563,grandmaster,2563,0,135,79,2017-11-02,Rovaniemi,41,7,325
+273,sharaelong,2563,grandmaster,2563,0,21,72,2020-09-30,Seoul,8,8,659
+274,cjZYZtcl,2562,grandmaster,2562,0,136,39,2023-07-31,,4,0,0
+275,hloya_ygrt,2561,grandmaster,2572,0,NULL,354,2015-01-21,,2,14,2000
+276,BaoJiaoPisu,2560,grandmaster,2560,0,137,433,2020-03-06,"Da Nang",28,15,1543
+277,KroosTheKeenGlint,2559,grandmaster,2764,0,138,107,2022-04-28,,NULL,4,769
+278,zero4338,2559,grandmaster,2559,0,139,52,2019-07-16,,NULL,8,427
+279,liumohan,2557,grandmaster,2604,0,52,147,2021-03-27,,4,5,213
+280,HoshimiOWO,2556,grandmaster,2556,0,140,97,2020-01-16,,NULL,5,1011
+281,propane,2556,grandmaster,2560,0,141,639,2021-12-11,Beijing,4,240,3477
+282,Imakf,2554,grandmaster,2554,0,142,350,2018-05-26,Changsha,4,8,835
+283,cn449,2553,grandmaster,2621,0,NULL,54,2019-04-30,Kyoto,9,6,476
+284,Mr_Solution,2552,grandmaster,2552,0,NULL,670,2018-09-01,Alexandria,42,2,91
+285,ElDiablo,2551,grandmaster,2551,0,143,881,2020-09-05,Gurgaon,18,11,1534
+286,leaf1415,2547,grandmaster,2727,0,NULL,273,2017-12-10,,9,18,4505
+287,wutongchun,2547,grandmaster,2583,0,19,84,2022-08-13,Zhongshan,4,6,335
+288,variance,2546,grandmaster,2546,0,7,155,2015-07-08,"San Francisco",7,9,812
+289,sevlll777,2543,grandmaster,2612,0,144,605,2018-11-01,,43,19,3231
+290,kto_eto,2542,grandmaster,2542,0,NULL,41,2023-12-30,,NULL,5,80
+291,complexor,2541,grandmaster,2541,0,81,47,2021-02-27,Shenzhen,4,15,570
+292,nvmdava,2539,grandmaster,2563,0,NULL,365,2018-02-01,,44,9,1345
+293,veckoper,2539,grandmaster,2539,0,91,30,2019-03-10,Hangzhou,4,0,79
+294,ywwyww,2538,grandmaster,2554,0,145,166,2016-09-04,Guangzhou,4,8,175
+295,NikaraBika,2537,grandmaster,2537,0,146,524,2014-01-03,Saarbrücken,13,14,1892
+296,tiger2005,2537,grandmaster,2537,0,147,922,2018-08-25,Zhanjiang,4,24,1134
+297,Akulyat,2535,grandmaster,2702,0,148,330,2017-02-01,,45,16,2726
+298,Daniel777,2535,grandmaster,2535,0,NULL,40,2021-04-18,,11,6,748
+299,fuppy,2535,grandmaster,2675,0,80,171,2017-09-17,,9,5,1177
+300,xzc0920,2535,grandmaster,2535,0,122,56,2021-07-24,Chengdu,4,11,820
+301,wakaka,2534,grandmaster,2534,0,NULL,98,2012-04-21,,NULL,11,2286
+302,ingrid,2533,grandmaster,2533,0,149,85,2020-09-30,,NULL,4,191
+303,icecuber,2532,grandmaster,2852,0,NULL,1013,2014-10-10,Tromsø,46,9,2310
+304,lxlxl,2532,grandmaster,2532,0,NULL,175,2015-03-11,,4,21,1532
+305,baluteshih,2531,grandmaster,2611,0,NULL,312,2016-12-06,"New Taipei City",15,8,2620
+306,WeakestTopology,2530,grandmaster,2530,0,150,302,2019-08-07,"Belo Horizonte",25,20,2188
+307,Nikitosh,2529,grandmaster,2673,0,72,214,2011-08-28,"Saint Petersburg",6,8,1188
+308,Mr_Wu,2528,grandmaster,2560,0,151,130,2018-01-08,Beijing,4,9,811
+309,MonkeyKing,2527,grandmaster,2731,0,4,243,2017-07-08,Nanjing,4,13,974
+310,Tavern,2527,grandmaster,2527,0,NULL,36,2019-03-08,,NULL,4,249
+311,timmyfeng,2527,grandmaster,2715,0,152,371,2019-09-21,,7,73,3033
+312,Nutella3000,2524,grandmaster,2612,0,NULL,202,2018-06-21,Kazan’,6,18,1819
+313,kostylevGO,2524,grandmaster,2524,0,153,85,2020-11-04,Chelyabinsk,6,12,883
+314,Ayanami_desu,2523,grandmaster,2523,0,154,19,2021-03-11,,NULL,2,47
+315,aliasadiiii,2523,grandmaster,2523,0,155,555,2013-06-02,Tehran,17,31,2269
+316,ProjectCF,2522,grandmaster,2608,0,NULL,84,2023-10-19,,NULL,2,64
+317,Fortin,2521,grandmaster,2555,0,156,119,2017-04-10,,NULL,17,2696
+318,LittleCube,2521,grandmaster,2521,0,NULL,235,2020-12-16,"Kaohsiung City",15,7,832
+319,billieeyelash,2520,grandmaster,2520,0,NULL,60,2022-07-28,Dusseldorf,13,2,42
+320,relyt871,2518,grandmaster,2518,0,NULL,15,2021-08-26,,4,4,622
+321,BucketPotato,2517,grandmaster,2592,0,11,1710,2020-01-30,"Palo Alto",7,708,4673
+322,hbi1998,2517,grandmaster,2609,0,157,54,2018-06-23,Pyongyang,19,8,1075
+323,RaresFelix,2516,grandmaster,2516,0,NULL,113,2019-06-19,Bucharest,26,8,661
+324,kevinxiehk,2516,grandmaster,2706,0,28,174,2016-10-30,"Hong Kong",12,5,714
+325,Everule,2515,grandmaster,2610,0,62,1937,2020-01-29,Mumbai,18,13,945
+326,Kilani,2514,grandmaster,2676,0,NULL,2108,2015-09-19,Amman,47,11,3898
+327,Rewenix,2513,grandmaster,2533,0,107,39,2019-10-10,Krakow,2,4,568
+328,ikaurov,2513,grandmaster,2556,0,158,138,2020-12-06,,7,25,2030
+329,__jk__,2512,grandmaster,2512,0,NULL,124,2019-12-06,"Hong Kong",12,7,1876
+330,MridulAhi,2511,grandmaster,2562,0,143,2176,2021-12-30,Chandigarh,18,14,1716
+331,Oler_kzc,2510,grandmaster,2510,0,NULL,46,2021-12-11,Madrid,48,2,56
+332,gzchenben,2510,grandmaster,2654,0,135,292,2019-08-11,Guangzhou,4,4,398
+333,tarjen,2509,grandmaster,2509,0,159,406,2017-08-19,Huzhou,4,19,3185
+334,Yapparimurideshita,2508,grandmaster,2508,0,NULL,43,2021-10-04,,NULL,2,80
+335,crescent_yhw,2508,grandmaster,2582,0,103,56,2021-05-31,Changchun,4,10,358
+336,Numbering,2507,grandmaster,2534,0,160,98,2021-10-13,Seoul,8,3,222
+337,yaoxi,2507,grandmaster,2597,0,4,118,2019-08-13,Nanjing,4,12,652
+338,cheissmart,2506,grandmaster,2506,0,28,227,2017-12-20,Taipei,15,13,1535
+339,noya2,2506,grandmaster,2616,0,56,91,2020-03-19,Tokyo,9,69,1727
+340,Denisov,2505,grandmaster,2623,0,118,135,2017-03-24,Dnipro,23,8,1970
+341,Igorfardoc,2505,grandmaster,2520,0,NULL,116,2019-11-13,,NULL,179,1368
+342,Yousef_Salama,2505,grandmaster,2601,0,161,2760,2011-03-08,Alexandria,42,17,3546
+343,Wild_Hamster,2503,grandmaster,2540,0,51,404,2012-07-23,Amsterdam,16,14,1800
+344,Arterm,2502,grandmaster,2859,0,94,468,2011-11-26,Minsk,1,18,1205
+345,ace5,2502,grandmaster,2690,0,47,300,2016-06-17,"Saint Petersburg",6,78,2018
+346,kyo20111,2501,grandmaster,2501,0,162,75,2019-01-22,,8,5,332
+347,JooDdae,2500,grandmaster,2500,0,162,144,2018-07-27,Suwon,8,10,950
+348,_Kubic_,2499,grandmaster,2499,0,NULL,29,2021-08-09,,NULL,2,104
+349,eunlin,2498,grandmaster,2498,0,21,25,2022-11-09,,8,4,231
+350,dognotlike,2497,grandmaster,2497,0,163,34,2012-09-27,Meizhou,4,12,619
+351,zihouzhong,2497,grandmaster,3109,0,9,333,2021-08-22,Chengdu,4,6,805
+352,YuJiahe,2496,grandmaster,2496,0,164,94,2021-07-13,Guangzhou,4,21,839
+353,Ra16bit,2495,grandmaster,2742,0,NULL,493,2010-03-25,Minsk,1,6,2202
+354,diko,2494,grandmaster,2494,0,13,134,2015-10-16,Moscow,6,7,1172
+355,chenxiaoyan,2493,grandmaster,2866,0,26,259,2018-09-22,Nanjing,4,17,700
+356,se1ka2,2493,grandmaster,2675,0,165,36,2019-10-17,Kyoto,9,23,1375
+357,KaphI,2492,grandmaster,2497,0,166,29,2019-04-06,,4,4,492
+358,kevinyang,2492,grandmaster,2541,0,108,202,2020-02-08,Toronto,5,26,2349
+359,quailty,2491,grandmaster,2491,0,20,2112,2014-09-26,Beijing,4,9,2395
+360,red-stone,2490,grandmaster,2499,0,NULL,29,2023-05-12,,NULL,4,141
+361,Guoyh,2489,grandmaster,2610,0,135,90,2019-06-11,Beijing,4,6,619
+362,briX1210,2488,grandmaster,2562,0,NULL,71,2022-01-11,Singapore,14,11,312
+363,Dorost,2487,grandmaster,2602,0,167,421,2019-09-04,Tehran,17,19,2435
+364,MahiruShiina,2487,grandmaster,2552,0,NULL,160,2020-07-14,,9,15,1673
+365,ilyakor,2487,grandmaster,2831,0,72,418,2010-02-04,Zurich,49,7,814
+366,anpoli99,2486,grandmaster,2624,0,NULL,34,2020-02-02,,NULL,19,1326
+367,PavelKunyavskiy,2485,grandmaster,3097,0,168,1085,2010-02-04,Amsterdam,16,4,1098
+368,zwh2008,2485,grandmaster,2601,0,5,98,2021-09-04,Chongqing,4,16,1209
+369,cfy,2484,grandmaster,2484,0,119,110,2013-08-21,Guangzhou,4,2,96
+370,limanjun,2484,grandmaster,2484,0,NULL,51,2015-12-30,Singapore,14,11,434
+371,lwn_16,2484,grandmaster,2564,0,91,94,2015-07-13,Guangzhou,4,6,1047
+372,JovanB,2483,grandmaster,2641,0,NULL,181,2017-08-18,Belgrade,50,40,1751
+373,zimpha,2483,grandmaster,2486,0,169,401,2013-01-13,Tokyo,9,6,862
+374,251Sec,2481,grandmaster,2481,0,85,82,2022-08-19,,NULL,6,261
+375,pwild,2481,grandmaster,2508,0,170,115,2014-09-20,Nuremberg,13,6,1464
+376,amirhoseinfar1385,2480,grandmaster,2480,0,171,236,2021-07-20,Karaj,17,96,2056
+377,craborac,2480,grandmaster,2831,0,1,378,2012-09-14,"Saint Petersburg",6,4,844
+378,nuip,2480,grandmaster,2880,0,NULL,411,2013-02-01,Tokyo,9,5,2411
+379,Never-Ever,2479,grandmaster,2593,0,NULL,42,2022-11-11,,NULL,3,92
+380,hydd,2479,grandmaster,2479,0,NULL,58,2019-11-25,,NULL,12,489
+381,SomethingNew,2478,grandmaster,2888,0,172,529,2019-10-26,Belgrade,50,7,1079
+382,kcudcigam,2478,grandmaster,2581,0,NULL,23,2021-12-08,,NULL,118,1010
+383,qwqFomalhaut,2478,grandmaster,2478,0,173,33,2020-03-18,,4,6,291
+384,Claris,2477,grandmaster,2477,0,116,1360,2014-03-27,Hangzhou,4,8,730
+385,Volkov_Ivan,2477,grandmaster,2593,0,8,138,2017-05-26,Petergof,6,6,1129
+386,Ooops_no,2476,grandmaster,2476,0,174,84,2018-08-03,,6,21,1362
+387,jhdonghj112,2476,grandmaster,2510,0,NULL,76,2019-07-17,,4,21,1799
+388,meaningIess,2476,grandmaster,2538,0,NULL,51,2018-08-20,,NULL,4,310
+389,RNS_KSR,2475,grandmaster,2540,0,58,38,2020-07-23,Pyongyang,19,18,326
+390,mickeyjung,2475,grandmaster,2600,0,175,71,2022-11-25,,8,3,259
+391,zeliboba,2475,grandmaster,2837,0,51,395,2010-04-15,Limassol,51,4,1065
+392,ofrankel,2474,grandmaster,2595,0,NULL,24,2021-03-10,Jerusalem,31,4,389
+393,knightL,2473,grandmaster,2634,0,176,185,2010-09-24,Simferopol,6,6,1997
+394,swiftqwq,2473,grandmaster,2579,0,103,53,2020-06-13,,4,5,358
+395,DishonoredRighteous,2472,grandmaster,2472,0,177,432,2020-02-27,,NULL,6,710
+396,Yongaron,2472,grandmaster,2616,0,NULL,39,2017-04-01,,52,9,339
+397,makrav,2472,grandmaster,2472,0,174,158,2021-05-20,Moscow,6,16,1468
+398,scli_weapon,2472,grandmaster,2676,0,NULL,33,2019-06-27,,7,3,152
+399,Ethan_Rao,2471,grandmaster,2638,0,NULL,60,2022-05-19,,5,0,64
+400,cebolinha,2471,grandmaster,2471,0,178,255,2020-10-23,Brasília,25,15,1957
+401,APJifengc2,2470,grandmaster,2492,0,179,115,2021-08-25,Hengshui,4,5,359
+402,SevenDusks,2470,grandmaster,2575,0,180,56,2020-08-21,Hangzhou,4,3,181
+403,sheercold,2470,grandmaster,2470,0,NULL,25,2019-07-21,,NULL,15,741
+404,HHH666666,2469,grandmaster,2469,0,NULL,80,2022-11-11,,4,12,705
+405,Leasier,2469,grandmaster,2469,0,181,187,2020-08-15,Chongqing,4,13,861
+406,penguinman,2469,grandmaster,2635,0,NULL,118,2019-12-29,,9,5,702
+407,tuagoale,2469,grandmaster,2469,0,NULL,16,2020-10-10,,NULL,2,44
+408,fengchang,2468,grandmaster,2468,0,182,29,2021-01-08,,NULL,2,90
+409,dsgrekova2,2467,grandmaster,2531,0,127,37,2020-11-15,,NULL,2,70
+410,Marckess,2466,grandmaster,2681,0,183,695,2017-02-13,Cuautitlán,37,34,5816
+411,Noche_6,2465,grandmaster,2465,0,184,14,2020-11-30,Tehran,17,9,263
+412,Antiamuny,2464,grandmaster,2464,0,159,44,2022-02-12,Shanghai,4,2,134
+413,dvdg6566,2464,grandmaster,2464,0,185,91,2018-10-06,Singapore,14,7,468
+414,hxhhxh,2464,grandmaster,2464,0,NULL,58,2021-07-17,,4,9,702
+415,zemen,2464,grandmaster,2971,0,51,480,2011-08-06,Amsterdam,16,3,1200
+416,Flying2018,2463,grandmaster,2463,0,180,73,2018-07-05,Hangzhou,4,15,298
+417,PresentPassed,2463,grandmaster,2463,0,86,22,2021-08-21,Changzhou,4,2,40
+418,SendThemToHell,2462,grandmaster,2590,0,186,82,2016-03-12,Moscow,6,17,1276
+419,cuom1999,2462,grandmaster,2506,0,NULL,345,2014-11-12,"Hoi An",28,11,1770
+420,Amtek,2461,grandmaster,2538,0,107,156,2018-02-19,Krakow,2,12,1457
+421,TinkerKing,2461,grandmaster,2545,0,NULL,28,2017-02-24,,4,2,101
+422,maxplus,2461,grandmaster,2637,0,187,208,2014-03-24,Moscow,6,52,1820
+423,Akigeor,2460,grandmaster,2582,0,93,119,2010-09-11,Shanghai,4,5,873
+424,Mr.Robot_28,2460,grandmaster,2501,0,188,113,2018-03-03,Bremen,13,26,2594
+425,supercambrian,2460,grandmaster,2460,0,6,34,2022-07-27,Beijing,4,8,224
+426,fyable,2459,grandmaster,2539,0,189,30,2023-09-26,Chongqing,4,4,366
+427,Daas,2458,grandmaster,2458,0,142,27,2020-10-28,Changsha,4,6,403
+428,DevastatingStrike,2458,grandmaster,2458,0,190,18,2023-02-03,,4,0,55
+429,jklepec,2457,grandmaster,2523,0,191,151,2014-11-06,Vrbovec,21,7,471
+430,Ashishgup,2456,grandmaster,2456,0,72,12166,2016-08-22,Pune,18,34,3261
+431,Karry5307,2456,grandmaster,2456,0,192,325,2018-03-06,Changsha,4,23,1007
+432,H8_8Q,2455,grandmaster,2525,0,NULL,82,2019-07-29,Linyi,4,8,425
+433,RP-1,2455,grandmaster,2513,0,94,68,2020-10-29,Surgut,6,5,525
+434,sdya,2455,grandmaster,2797,0,193,375,2010-02-04,Kharkiv,23,10,1232
+435,Fake_A05,2454,grandmaster,2454,0,194,30,2021-01-28,,NULL,2,58
+436,lfc_andy26,2454,grandmaster,2454,0,195,66,2022-03-26,"Việt Trì",28,5,108
+437,Timsei,2453,grandmaster,2497,0,93,164,2017-05-11,Hangzhou,4,16,1966
+438,zlt1117,2453,grandmaster,2453,0,NULL,36,2019-10-21,,NULL,13,590
+439,SorahISA,2452,grandmaster,2452,0,152,275,2018-01-04,Hsinchu,15,24,1585
+440,kimjihoon,2452,grandmaster,2591,0,NULL,52,2017-06-18,,NULL,4,636
+441,yan.silva,2452,grandmaster,2452,0,82,304,2018-12-29,Campinas,25,25,2389
+442,edenooo,2451,grandmaster,2451,0,162,240,2017-06-25,Cheonan,8,10,1803
+443,Bakry,2450,grandmaster,2450,0,196,3337,2017-03-31,Alexandria,42,17,2927
+444,automaton,2450,grandmaster,2450,0,197,24,2022-02-06,Chengdu,4,2,89
+445,Nerovix,2449,grandmaster,2449,0,NULL,42,2019-12-17,,NULL,7,671
+446,interestingLSY,2449,grandmaster,2449,0,198,205,2016-09-29,Dalian,4,17,898
+447,Timur_Sitdikov,2448,grandmaster,2699,0,199,424,2011-05-21,Tashkent,53,6,1761
+448,mhy908,2448,grandmaster,2480,0,121,82,2019-06-15,Anyang-si,8,2,239
+449,average_frog_enjoyer,2447,grandmaster,2447,0,NULL,151,2016-04-08,Bucharest,26,9,1338
+450,fzx,2447,grandmaster,2447,0,200,109,2019-08-19,,NULL,66,3327
+451,Artyom123,2446,grandmaster,2494,0,67,303,2017-09-13,,6,7,597
+452,LeafSeek,2446,grandmaster,2558,0,6,57,2021-02-20,Beijing,4,3,124
+453,ShadowLight,2446,grandmaster,2722,0,94,240,2015-01-22,,6,21,2820
+454,AlesyaIvanova,2445,grandmaster,2604,0,13,304,2017-10-14,Moscow,6,10,909
+455,OdtreePrince,2445,grandmaster,2445,0,125,48,2019-12-25,"Hong Kong",12,8,473
+456,sstrong,2445,grandmaster,2622,0,13,539,2018-05-12,Almaty,27,15,3125
+457,Madball,2444,grandmaster,2771,0,NULL,145,2014-04-17,Yekaterinburg,6,5,1503
+458,KDVinit,2443,grandmaster,2443,0,201,1778,2020-04-14,Surat,18,25,2019
+459,Waimaihehe,2443,grandmaster,2443,0,202,52,2022-02-20,,15,3,148
+460,asgcd,2442,grandmaster,2442,0,203,7,2024-05-10,Chongqing,4,2,42
+461,Tom66,2441,grandmaster,2441,0,204,286,2018-09-05,Wuhu,4,14,1338
+462,vkgainz,2441,grandmaster,2532,0,205,237,2017-12-30,Pleasanton,7,18,1679
+463,Himeno_Towa,2440,grandmaster,2440,0,NULL,121,2021-09-11,,12,19,982
+464,QAQAQAQAQ,2440,grandmaster,2502,0,NULL,19,2019-09-15,,NULL,2,134
+465,kobor,2440,grandmaster,2440,0,37,122,2018-01-16,Wrocław,2,14,1825
+466,yzyyyIx,2440,grandmaster,2440,0,206,50,2018-01-26,Hangzhou,4,3,37
+467,Nguyen_Mai_Huong,2439,grandmaster,2439,0,NULL,89,2023-11-03,,NULL,3,44
+468,Zimse.,2439,grandmaster,2462,0,NULL,96,2020-01-17,Jinan,4,18,833
+469,changle_cyx,2439,grandmaster,2439,0,207,40,2017-01-02,Fuzhou,4,5,195
+470,golikovnik,2439,grandmaster,2614,0,177,243,2014-10-06,"Saint Petersburg",6,10,2310
+471,CC2021zyz,2438,grandmaster,2529,0,NULL,24,2019-11-09,,NULL,13,956
+472,Pajaraja,2438,grandmaster,2510,0,208,133,2016-02-20,Belgrade,50,5,470
+473,xuyifei1,2438,grandmaster,2438,0,69,40,2021-07-10,Xi'an,4,16,662
+474,LastDance,2437,grandmaster,2588,0,209,434,2017-06-07,Hanoi,28,11,1498
+475,MeGustaElArroz23,2437,grandmaster,2437,0,210,105,2020-08-12,Valencia,48,10,598
+476,NKheyuxiang,2437,grandmaster,2437,0,NULL,51,2022-07-26,,NULL,4,210
+477,shenmadongdong.qwq,2437,grandmaster,2439,0,12,58,2021-02-18,Hangzhou,4,5,134
+478,Duck_sajin,2436,grandmaster,2436,0,211,475,2021-06-15,,4,101,3202
+479,yzz162534,2436,grandmaster,2436,0,6,21,2023-03-12,Beijing,4,11,425
+480,Colorless,2435,grandmaster,2466,0,91,62,2019-04-06,,NULL,6,734
+481,VesselinMarkovich,2435,grandmaster,2439,0,NULL,53,2020-03-30,Varna,35,6,121
+482,piggy123,2435,grandmaster,2435,0,81,45,2020-04-11,Shenzhen,4,22,421
+483,Van_Dijk,2434,grandmaster,2434,0,NULL,16,2023-08-12,,NULL,0,31
+484,Zoli9,2434,grandmaster,2434,0,NULL,86,2014-11-19,Budapest,10,7,1211
+485,ddytxdy,2434,grandmaster,2446,0,212,62,2019-02-28,Shijiazhuang,4,10,797
+486,wery0,2434,grandmaster,2434,0,NULL,214,2017-11-20,Khabarovsk,6,18,2241
+487,Waldi,2433,grandmaster,2492,0,2,35,2022-11-10,Gdynia,2,6,371
+488,cheetose,2433,grandmaster,2433,0,213,198,2017-08-08,Seoul,8,23,2272
+489,wenhao801,2433,grandmaster,2440,0,192,73,2018-08-27,Beijing,4,7,777
+490,AHappyPotato,2432,grandmaster,2517,0,28,202,2020-03-04,"Hong Kong",12,21,3579
+491,Howarli,2432,grandmaster,2432,0,119,74,2016-07-17,Guangzhou,4,12,416
+492,Little_Xi,2432,grandmaster,2432,0,NULL,27,2023-02-05,,NULL,2,81
+493,lgswdn,2432,grandmaster,2432,0,NULL,101,2020-02-16,,NULL,7,543
+494,WLZ,2431,grandmaster,2431,0,30,98,2018-01-21,,NULL,29,1650
+495,fmqjpt,2431,grandmaster,2574,0,7,133,2017-06-26,,NULL,4,609
+496,valeriu,2431,grandmaster,2579,0,214,344,2020-04-11,Bucharest,26,20,775
+497,Goshkata,2430,grandmaster,2430,0,30,71,2019-04-06,Sofia,35,14,844
+498,SunshinePie,2430,grandmaster,2430,0,215,47,2020-01-04,Xi'an,4,4,175
+499,becaido,2430,grandmaster,2430,0,89,258,2019-11-02,"New Taipei City",15,16,2783
+500,Andreikkaa,2429,grandmaster,2429,0,NULL,243,2014-06-08,,NULL,7,1052
+501,bronze_coder,2429,grandmaster,2646,0,NULL,106,2020-12-24,,NULL,11,494
+502,.tx,2428,grandmaster,2498,0,NULL,228,2013-12-01,,NULL,20,3632
+503,Zayin,2428,grandmaster,2590,0,147,160,2016-05-07,Guangzhou,4,12,1790
+504,s-quark,2428,grandmaster,2428,0,14,276,2011-09-11,Harbin,4,3,368
+505,Dormi,2427,grandmaster,2606,0,108,185,2019-02-26,Markham,5,6,758
+506,InkyFlameMaster,2427,grandmaster,2451,0,216,21,2018-02-13,Xi'an,4,3,108
+507,cpchenpi,2427,grandmaster,2427,0,135,264,2022-09-27,Hefei,4,56,1376
+508,BurnoutAg7,2426,grandmaster,2458,0,NULL,184,2017-10-17,Wuxi,4,18,1371
+509,IBory,2426,grandmaster,2426,0,217,196,2021-01-05,Busan,8,7,977
+510,glebustim,2426,grandmaster,2426,0,218,169,2019-05-14,Moscow,6,6,493
+511,wnmrmr,2426,grandmaster,2426,0,219,178,2021-06-22,,25,35,1897
+512,ChrisT,2425,grandmaster,2514,0,108,148,2019-02-10,Toronto,5,11,1055
+513,Heart_Blue,2425,grandmaster,2425,0,220,291,2011-05-19,,4,25,6825
+514,RobertoFirmino,2425,grandmaster,2425,0,221,30,2022-12-27,Nanning,4,18,721
+515,flukehn,2425,grandmaster,2438,0,182,150,2017-05-26,,NULL,32,890
+516,superyijin_txdy,2425,grandmaster,2435,0,6,74,2022-12-07,,4,10,369
+517,I_love_tigersugar,2424,grandmaster,2631,0,131,1569,2013-05-05,Hanoi,28,8,2193
+518,TsReaper,2424,grandmaster,2424,0,91,193,2016-01-22,Hangzhou,4,14,1108
+519,Jakube,2423,grandmaster,2521,0,NULL,375,2015-03-26,Vienna,54,15,1375
+520,SATSKY_2024target_IGM,2423,grandmaster,2503,0,140,574,2022-10-18,Hangzhou,4,16,1440
+521,speedermen,2423,grandmaster,2423,0,NULL,25,2013-03-31,,NULL,8,167
+522,2qbingxuan,2422,grandmaster,2462,0,222,254,2018-09-12,"New Taipei City",15,15,2854
+523,alegsandyr,2422,grandmaster,2422,0,47,100,2018-05-14,Moscow,6,4,369
+524,princebelkovetz,2422,grandmaster,2422,0,NULL,180,2020-01-17,"Saint Petersburg",6,32,1255
+525,4fecta,2421,grandmaster,2433,0,11,212,2019-06-04,Toronto,5,24,1135
+526,GregFocker,2421,grandmaster,2421,0,223,17,2020-09-06,,55,3,140
+527,SoraKasugan0,2421,grandmaster,2435,0,NULL,73,2018-04-05,,NULL,5,174
+528,aropan,2421,grandmaster,2636,0,224,510,2010-03-05,,NULL,7,868
+529,axs7384,2421,grandmaster,2495,0,100,146,2016-10-11,Shaoxing,4,5,842
+530,gazelle,2421,grandmaster,2501,0,NULL,110,2017-03-29,,9,9,805
+531,satashun,2421,grandmaster,2782,0,NULL,217,2012-08-13,Kyoto,9,6,1259
+532,Sorto,2420,grandmaster,2420,0,NULL,48,2013-07-03,,NULL,12,585
+533,diandian2020,2420,grandmaster,2420,0,NULL,21,2022-01-22,,NULL,7,354
+534,teja349,2420,grandmaster,2529,0,201,2688,2016-04-16,Hyderabad,18,16,1505
+535,GoRed,2419,grandmaster,2545,0,NULL,40,2020-10-22,,18,22,114
+536,nothing100,2419,grandmaster,2419,0,32,94,2014-08-01,,4,5,648
+537,613,2418,grandmaster,2418,0,39,109,2015-06-27,Beijing,4,6,163
+538,Huah,2418,grandmaster,2418,0,225,144,2018-08-24,Changsha,4,15,852
+539,MoQZ,2418,grandmaster,2418,0,19,55,2020-08-29,Zhongshan,4,5,188
+540,louhao088088,2418,grandmaster,2418,0,101,26,2020-01-17,Hangzhou,4,39,456
+541,Ynoi,2417,grandmaster,2417,0,182,279,2019-02-19,,4,6,322
+542,ilovevoi,2417,grandmaster,2417,0,32,78,2022-01-27,Singapore,14,5,183
+543,Quang,2416,grandmaster,2621,0,NULL,517,2014-07-13,"Hưng Yên",28,26,1974
+544,cxt,2416,grandmaster,2416,0,63,180,2017-03-11,Atlanta,7,9,2048
+545,10circle,2415,grandmaster,2498,0,14,90,2020-05-27,,4,6,895
+546,Aging1986,2415,grandmaster,2415,0,226,531,2021-08-14,Shanghai,4,9,2074
+547,blatuitorulmlc,2415,grandmaster,2415,0,227,80,2016-12-19,,26,4,114
+548,radoslav11,2415,grandmaster,2590,0,30,901,2014-03-10,Plovdiv,35,76,2107
+549,Virv,2414,grandmaster,2428,0,228,59,2019-10-08,,36,10,218
+550,79brue,2413,grandmaster,2554,0,7,353,2015-02-21,Jeonju,8,9,493
+551,CQXYM,2413,grandmaster,2514,0,197,173,2019-07-24,Chongqing,4,9,722
+552,HolyK,2413,grandmaster,2413,0,225,254,2018-01-06,Huai'an,4,10,1141
+553,UnstoppableChillMachine,2413,grandmaster,2540,0,8,250,2016-12-10,Perm,6,25,2638
+554,C2021zyz,2412,grandmaster,2412,0,NULL,7,2019-11-09,,NULL,2,55
+555,aryanc403,2412,grandmaster,2452,0,NULL,8265,2017-12-12,,18,12,2486
+556,keisuke6,2412,grandmaster,2412,0,NULL,47,2022-06-11,,9,5,379
+557,pllk,2412,grandmaster,2430,0,229,1544,2013-03-16,Helsinki,41,5,1100
+558,Brian_Hsu,2411,grandmaster,2411,0,NULL,100,2020-01-27,Taichung,15,9,778
+559,VladaMG98,2411,grandmaster,2460,0,99,219,2012-04-14,Belgrade,50,12,2042
+560,fast_photon,2411,grandmaster,2464,0,230,109,2021-11-22,,NULL,7,437
+561,simasimarisa,2411,grandmaster,2411,0,NULL,21,2020-05-24,,9,2,103
+562,Yam,2410,grandmaster,2533,0,NULL,178,2020-06-29,,7,38,2414
+563,khuepr123,2410,grandmaster,2680,0,231,266,2019-04-10,,NULL,13,1313
+564,czjxyz,2409,grandmaster,2409,0,NULL,46,2019-04-06,,NULL,9,771
+565,gongy,2409,grandmaster,2409,0,7,174,2014-07-13,Sydney,56,14,974
+566,thecold,2409,grandmaster,2409,0,NULL,43,2020-02-02,,NULL,8,789
+567,777777777Plus,2408,grandmaster,2426,0,232,62,2019-11-22,Zhengzhou,4,8,367
+568,AvinashKartik,2408,grandmaster,2408,0,72,729,2019-01-26,Chennai,18,60,2627
+569,SongC,2408,grandmaster,2591,0,121,242,2016-07-27,Anyang-si,8,3,510
+570,chmpro,2408,grandmaster,2408,0,NULL,27,2023-12-30,,8,2,105
+571,lmtdora2004,2408,grandmaster,2408,0,194,87,2019-08-13,,28,3,73
+572,t0mmyn,2408,grandmaster,2408,0,233,31,2021-09-29,,NULL,13,704
+573,Aestas16,2407,grandmaster,2407,0,36,89,2019-04-26,Fuzhou,4,6,367
+574,dmga44,2407,grandmaster,2575,0,234,367,2017-06-01,Havana,57,47,4710
+575,receed,2407,grandmaster,2997,0,94,301,2016-04-15,Moscow,6,7,1459
+576,TheIceKing,2406,grandmaster,2406,0,NULL,23,2021-05-01,,7,3,121
+577,chenyifanlx,2406,grandmaster,2406,0,NULL,58,2020-04-25,,NULL,29,1333
+578,plast,2406,grandmaster,2406,0,235,87,2018-02-10,,8,7,662
+579,Tony2_CF,2405,grandmaster,2557,0,173,99,2020-05-18,Xiamen,4,7,631
+580,andrew,2405,grandmaster,2415,0,107,303,2016-02-03,,NULL,15,2945
+581,p_s_c_,2405,grandmaster,2405,0,116,7,2019-07-05,,NULL,3,79
+582,AkaiLemon,2404,grandmaster,2410,0,NULL,108,2013-09-06,Shenzhen,4,51,2578
+583,jucason_xu,2404,grandmaster,2429,0,NULL,76,2021-02-28,,NULL,23,1484
+584,mibig,2404,grandmaster,2404,0,236,207,2014-11-02,Moscow,6,70,2561
+585,JoJo,2403,grandmaster,2403,0,237,59,2016-02-06,Kaliningrad,6,12,890
+586,maks_matiupatenko,2403,grandmaster,2497,0,218,94,2021-02-18,Moscow,6,7,576
+587,zzpcd,2403,grandmaster,2403,0,238,139,2018-04-14,Xiamen,4,16,1016
+588,ANZ,2402,grandmaster,2402,0,239,202,2017-07-30,,8,12,1011
+589,__Jeffrey_22,2402,grandmaster,2402,0,NULL,26,2018-08-21,,NULL,15,690
+590,mxh1999,2402,grandmaster,2402,0,93,117,2014-05-12,Shanghai,4,14,345
+591,Serval,2401,grandmaster,2401,0,113,229,2015-12-25,Beijing,4,6,848
+592,bogdan10bos,2401,grandmaster,2401,0,30,166,2014-04-16,"Campulung Muscel",26,10,680
+593,davi_bart,2401,grandmaster,2447,0,NULL,100,2018-12-24,Imola,36,8,628
+594,ButterCake,2400,grandmaster,2500,0,17,92,2019-05-01,Hangzhou,4,13,958
+595,bicsi,2400,grandmaster,2741,0,223,1012,2015-03-17,Suceava,26,6,1389
+596,dark_light,2400,grandmaster,2400,0,NULL,53,2019-12-24,,4,16,919
+597,gzchenyin,2400,grandmaster,2400,0,240,49,2019-09-14,Guangzhou,4,2,72
+598,sfiction,2400,grandmaster,2400,0,91,143,2012-05-13,Hangzhou,4,7,1119
+599,vvyixel,2400,grandmaster,2400,0,241,36,2021-11-22,,NULL,3,179
+600,Miko35,2399,"international master",2502,0,242,137,2019-08-01,Wuhan,4,6,401
+601,UtopianZ,2398,"international master",2398,0,243,40,2019-09-14,Fuzhou,4,9,230
+602,hydro-bot1,2398,"international master",2398,0,NULL,31,2021-06-21,,NULL,64,2477
+603,maomao90,2398,"international master",2597,0,244,615,2020-06-11,Singapore,14,13,1435
+604,windva,2398,"international master",2630,0,245,200,2021-03-22,Seoul,8,3,356
+605,Temmie,2397,"international master",2419,0,246,33,2020-03-01,,58,21,1678
+606,azberjibiou,2397,"international master",2397,0,160,132,2019-03-26,Seoul,8,3,171
+607,yyyyyyffffff,2397,"international master",2500,0,247,121,2015-08-28,Lafayette,7,14,1721
+608,Vladithur,2396,"international master",2415,0,186,215,2019-10-05,,11,120,2376
+609,stasio6,2396,"international master",2593,0,NULL,131,2015-05-10,Warsaw,2,5,854
+610,mees,2394,"international master",2394,0,NULL,38,2018-11-16,Amsterdam,16,3,255
+611,KumaTachiRen,2393,"international master",2486,0,165,26,2021-11-22,Kyoto,9,5,472
+612,ngpin04,2393,"international master",2475,0,248,326,2019-05-25,"Thu Dau Mot",28,35,1970
+613,HomuraAkemi,2392,"international master",2392,0,NULL,7,2021-08-12,,NULL,6,46
+614,activedeltorre,2392,"international master",2392,0,NULL,19,2021-12-24,,NULL,4,54
+615,mip182,2392,"international master",2506,0,13,122,2018-11-04,Moscow,6,12,1213
+616,TimeLimitExceed,2391,"international master",2391,0,142,30,2017-02-24,Changsha,4,7,145
+617,libobil,2391,"international master",2581,0,249,150,2020-04-16,Sofia,35,5,621
+618,L0TUS,2390,"international master",2454,0,121,98,2018-05-02,,NULL,6,474
+619,wata,2390,"international master",2483,0,NULL,182,2010-03-03,Tokyo,9,2,72
+620,Mirali777,2389,"international master",2425,0,250,89,2021-09-15,,6,35,3018
+621,Daniel_Jiang,2388,"international master",2388,0,251,80,2020-03-27,Nantong,4,4,118
+622,acceptedzhs,2388,"international master",2441,0,74,43,2020-08-15,Changsha,4,2,74
+623,riverwalk7,2388,"international master",2388,0,10,48,2016-12-27,,7,45,1064
+624,DBradac,2387,"international master",2745,0,NULL,174,2012-12-12,Zagreb,21,8,856
+625,Noble_Mushtak,2387,"international master",2450,0,252,158,2016-07-09,,7,10,720
+626,AndersonSilva,2386,"international master",2475,0,NULL,32,2020-11-12,,NULL,2,104
+627,AkiyamaMizuki,2385,"international master",2385,0,253,9,2022-12-01,Tokyo,9,2,60
+628,aymanrs,2384,"international master",2384,0,254,285,2019-02-17,Rabat,59,21,1428
+629,denisrtyhb,2383,"international master",2401,0,NULL,61,2016-06-01,Moscow,6,6,363
+630,lijunyi,2383,"international master",2391,0,255,20,2020-07-24,Hengyang,4,19,1046
+631,Reanap,2382,"international master",2401,0,NULL,30,2020-05-02,Chongqing,4,13,927
+632,a142857a,2381,"international master",2491,0,256,105,2012-07-03,Piscataway,7,7,275
+633,okwedook,2381,"international master",2517,0,257,624,2017-03-11,Korolev,6,17,2438
+634,Andrei_ierdnA,2380,"international master",2380,0,NULL,73,2022-08-03,,NULL,4,227
+635,Shayan.P,2380,"international master",2648,0,7,670,2017-07-31,,NULL,38,2420
+636,serg3000,2380,"international master",2431,0,94,36,2017-04-02,Moscow,6,3,296
+637,anpaio,2379,"international master",2379,0,258,141,2020-10-06,Bucharest,26,5,668
+638,little_vegetable,2378,"international master",2431,0,259,33,2022-01-26,Ningde,4,9,417
+639,zlxFTH,2378,"international master",2378,0,9,60,2020-10-23,Chengdu,4,14,906
+640,DitaMirika,2377,"international master",2436,0,27,189,2020-01-24,Wuhu,4,14,1461
+641,buxubailan,2377,"international master",2377,0,NULL,12,2019-12-15,,NULL,2,63
+642,liqingyang,2377,"international master",2377,0,260,118,2020-07-02,,NULL,9,566
+643,Dragos,2376,"international master",2376,0,261,115,2011-11-03,Bucharest,26,39,887
+644,Mahdi_Hajibeygi,2376,"international master",2376,0,262,319,2017-07-24,Tehran,17,35,1984
+645,kevin,2376,"international master",2376,0,63,85,2020-07-20,,7,22,1613
+646,Psyho,2375,"international master",2375,0,263,244,2012-08-17,,NULL,10,75
+647,locsey,2375,"international master",2436,0,5,28,2021-05-17,Chongqing,4,13,1167
+648,Yurushia,2374,"international master",2558,0,NULL,367,2018-10-24,,28,14,1038
+649,For_the_Love,2373,"international master",2373,0,189,113,2012-10-02,Harbin,4,7,755
+650,WongChun1234,2372,"international master",2379,0,264,84,2021-04-29,"Hong Kong",12,7,437
+651,mff,2372,"international master",2392,0,NULL,28,2014-10-23,Munich,13,2,79
+652,Firmino09,2371,"international master",2371,0,NULL,4,2023-11-03,,4,2,53
+653,anodaram,2371,"international master",2412,0,NULL,6,2019-11-11,,NULL,0,63
+654,sohsoh,2371,"international master",2541,0,57,320,2018-11-06,Tehran,17,35,2608
+655,IlyaLos,2370,"international master",2494,0,76,168,2010-10-19,Saratov,6,13,1560
+656,achi_basadzishvili,2370,"international master",2395,0,216,204,2016-02-26,Tbilisi,30,13,1621
+657,GSH_gsh,2369,"international master",2369,0,265,21,2021-10-18,Shanghai,4,3,150
+658,QCFium,2369,"international master",2411,0,NULL,71,2019-07-31,,NULL,3,213
+659,Apple_Method,2368,"international master",2441,0,266,171,2020-03-31,Cupertino,7,8,769
+660,adedalic,2368,"international master",2409,0,76,838,2013-09-13,Saratov,6,10,2333
+661,nskybytskyi,2368,"international master",2368,0,NULL,963,2017-06-05,Kyiv,23,30,2536
+662,Liuxizai,2367,"international master",2481,0,9,75,2020-10-25,Wuhan,4,15,652
+663,min_inf,2367,"international master",2367,0,267,23,2023-10-23,Shanghai,4,2,44
+664,tengrist,2367,"international master",2367,0,80,44,2023-03-27,Tokyo,9,5,208
+665,Supermagzzz,2366,"international master",2470,0,1,352,2017-01-14,"Saint Petersburg",6,12,1711
+666,applese,2366,"international master",2497,0,93,648,2017-04-17,Shanghai,4,22,3444
+667,bkdn24.lnba,2365,"international master",2365,0,NULL,69,2024-09-14,,NULL,3,73
+668,teleport,2365,"international master",2466,0,268,156,2012-01-30,Minsk,1,6,1158
+669,__Salty_,2364,"international master",2364,0,NULL,8,2019-09-14,,NULL,4,183
+670,ympc2005,2363,"international master",2363,0,9,27,2021-07-25,Chengdu,4,6,320
+671,YuukiS,2362,"international master",2435,0,NULL,27,2023-03-27,,7,12,580
+672,dzerzhinski,2362,"international master",2362,0,265,21,2017-10-23,Shanghai,4,3,232
+673,ttamx,2362,"international master",2459,0,269,107,2022-06-08,Bangkok,60,22,1473
+674,DarkestNightmare,2361,"international master",2361,0,NULL,33,2020-02-01,,NULL,10,474
+675,erduolong,2361,"international master",2361,0,139,36,2022-12-26,Shijiazhuang,4,12,319
+676,lichenghan,2360,"international master",2360,0,105,41,2021-03-09,Guangzhou,4,7,455
+677,subscriber,2360,"international master",2977,0,1,1412,2010-04-06,Mazyr,1,6,1071
+678,C202044zxy,2359,"international master",2359,0,270,64,2019-08-22,Chongqing,4,16,1019
+679,familiarize,2359,"international master",2399,0,271,17,2024-04-08,Ganzhou,4,4,70
+680,-wicton-,2357,"international master",2361,0,272,39,2019-09-20,Chongqing,4,12,628
+681,Goldenglowo,2357,"international master",2357,0,273,30,2023-01-10,,NULL,0,25
+682,ahmadkhafif,2357,"international master",2357,0,NULL,9,2024-05-29,,61,3,90
+683,andr1y,2357,"international master",2357,0,274,210,2017-05-08,Krakow,2,8,1473
+684,orzhyh,2357,"international master",2427,0,38,33,2019-11-03,Changsha,4,2,95
+685,Hevix,2356,"international master",2356,0,NULL,12,2022-10-05,,NULL,2,78
+686,Andy_Lin,2355,"international master",2397,0,142,42,2019-12-05,Changsha,4,13,603
+687,Trump_Constructs_China,2355,"international master",2494,0,275,55,2020-06-12,,4,2,45
+688,Alfeh,2354,"international master",2354,0,276,2121,2019-02-10,Noakhali,62,17,4548
+689,akua,2353,"international master",2395,0,NULL,22,2021-10-10,,9,82,1998
+690,realcomplex,2353,"international master",2596,0,NULL,89,2017-02-18,Riga,63,33,2957
+691,afuafu,2352,"international master",2466,0,122,79,2022-06-01,Chengdu,4,12,530
+692,kkts,2352,"international master",2352,0,NULL,50,2020-03-12,,NULL,2,112
+693,akshaykhandelwal,2351,"international master",2351,0,NULL,697,2020-12-30,,NULL,61,2412
+694,Andycipation,2350,"international master",2726,0,108,108,2018-07-02,Guelph,5,7,847
+695,Ari,2349,"international master",2595,0,277,942,2017-11-24,Guadalajara,37,11,1977
+696,Kal_tsiit,2349,"international master",2349,0,273,36,2021-06-04,,NULL,9,201
+697,zhiganov_v,2349,"international master",2349,0,278,116,2020-09-20,Yekaterinburg,6,6,797
+698,nishkarsh,2348,"international master",2454,0,279,875,2017-07-16,,18,11,1153
+699,rembocoder,2348,"international master",2587,0,117,751,2010-04-15,Saratov,6,4,982
+700,ZLW,2347,"international master",2347,0,NULL,52,2021-07-12,,4,41,507
+701,piaoyun,2347,"international master",2347,0,NULL,29,2021-12-25,,NULL,46,597
+702,-0v0-,2346,"international master",2346,0,280,33,2023-07-03,,NULL,4,430
+703,gangpenwang,2346,"international master",2346,0,34,81,2017-07-25,Beijing,4,3,278
+704,Misuki,2345,"international master",2370,0,281,329,2019-07-20,Hsinchu,15,18,2832
+705,flytime,2343,"international master",2343,0,NULL,37,2022-09-29,,4,3,176
+706,mmaxio,2343,"international master",2850,0,NULL,390,2010-02-17,Perm,6,5,1547
+707,vilcheuski,2343,"international master",2382,0,282,357,2010-02-21,Gdynia,2,15,3304
+708,HanaYukii,2342,"international master",2347,0,281,112,2018-03-27,"New Taipei City",15,15,3195
+709,ZCKevin,2342,"international master",2514,0,89,190,2018-12-18,"New Taipei City",15,13,870
+710,nathanlee726,2342,"international master",2342,0,283,100,2018-08-08,Hsinchu,15,17,891
+711,DatVu,2341,"international master",2341,0,131,254,2016-09-12,Hanoi,28,7,1023
+712,ballpoint_pen,2341,"international master",2357,0,4,59,2022-03-05,Nanjing,4,6,362
+713,shino16,2341,"international master",2460,0,30,52,2020-02-19,,NULL,6,488
+714,andreystefanov,2340,"international master",2370,0,249,86,2022-08-07,Sofia,35,8,287
+715,kalinov,2340,"international master",2609,0,72,85,2010-06-10,Zagreb,21,5,128
+716,slavik,2340,"international master",2535,0,186,74,2010-02-01,Saratov,6,6,1491
+717,GustavK,2339,"international master",2339,0,284,114,2018-05-03,Gothenburg,22,10,475
+718,Noobish_Monk,2339,"international master",2344,0,174,238,2021-06-03,Moscow,6,36,1479
+719,alexbabalau,2339,"international master",2446,0,285,99,2013-09-04,Timișoara,26,12,1233
+720,lts_,2339,"international master",2339,0,NULL,41,2018-06-27,,NULL,4,437
+721,2sozx,2338,"international master",2359,0,113,60,2017-04-30,,4,7,1056
+722,JeanBombeur,2338,"international master",2594,0,NULL,57,2020-07-07,"Vatican City",64,5,539
+723,cyb1010,2338,"international master",2342,0,17,47,2021-10-04,,11,5,578
+724,jimini23kjm,2338,"international master",2340,0,NULL,50,2016-09-18,Gaza,65,7,690
+725,Boboge,2337,"international master",2358,0,9,323,2019-04-02,Lausanne,49,33,3391
+726,anthonyaaab123,2337,"international master",2337,0,286,13,2021-12-26,Beijing,4,8,383
+727,emofunc,2337,"international master",2521,0,NULL,190,2016-03-06,,4,6,880
+728,16204,2336,"international master",2336,0,148,118,2020-03-15,,NULL,16,1255
+729,XeQuadF,2336,"international master",2336,0,135,32,2018-09-06,,4,3,149
+730,scanhex,2336,"international master",2802,0,7,433,2013-11-07,"Saint Petersburg",6,4,626
+731,tmt514,2335,"international master",2610,0,110,383,2010-03-11,Taipei,15,14,2048
+732,Luca,2334,"international master",2334,0,30,141,2019-10-15,Natal,25,10,1021
+733,Wayne_Yan,2334,"international master",2334,0,287,116,2019-10-15,Taipei,15,42,1272
+734,deoxys1087,2334,"international master",2336,0,11,4,2024-09-09,Austin,7,19,139
+735,afterall,2333,"international master",2617,0,108,217,2020-10-04,Tehran,17,12,680
+736,vinfat,2333,"international master",2345,0,209,244,2019-07-24,,28,6,669
+737,MoonPie,2332,"international master",2332,0,NULL,18,2020-03-04,,NULL,5,422
+738,Tutis,2331,"international master",2590,0,NULL,249,2016-10-08,,38,12,1749
+739,pl_er,2331,"international master",2331,0,NULL,18,2020-10-31,,NULL,4,325
+740,Suzukaze,2330,"international master",2358,0,62,66,2018-01-29,,NULL,10,1372
+741,amsraman,2330,"international master",2338,0,288,130,2018-07-22,,7,10,1466
+742,Dart-Xeyter,2329,"international master",2453,0,218,477,2018-06-01,Moscow,6,17,1487
+743,OG_Matveychick1,2329,"international master",2420,0,289,260,2020-09-26,"Nizhny Novgorod",6,17,2193
+744,ChenKaifeng,2328,"international master",2376,0,16,69,2019-11-30,Beijing,4,8,587
+745,NTT,2328,"international master",2397,0,197,71,2021-06-13,Windhoek,66,3,251
+746,hychyc,2328,"international master",2330,0,30,59,2017-09-24,Beijing,4,24,821
+747,zse,2328,"international master",2328,0,290,51,2022-06-25,,8,5,432
+748,Vectors_Master,2327,"international master",2341,0,9,650,2019-02-10,Homs,67,92,3696
+749,stoorz,2327,"international master",2327,0,NULL,51,2020-06-28,,4,12,548
+750,Alx,2326,"international master",2326,0,291,94,2020-01-20,,11,43,1744
+751,HugeWide,2326,"international master",2368,0,25,79,2022-01-13,Yangzhou,4,58,1527
+752,Ritwin,2326,"international master",2326,0,10,433,2020-12-24,,7,13,1158
+753,apgpsoop,2326,"international master",2326,0,292,178,2020-02-19,Lucknow,18,12,1886
+754,perchema,2326,"international master",2326,0,7,118,2015-06-16,Varna,35,5,424
+755,alexlikemath007,2325,"international master",2405,0,NULL,56,2020-03-08,,NULL,24,619
+756,rlc202204,2325,"international master",2325,0,81,40,2022-01-13,Shenzhen,4,8,698
+757,2014CAIS01,2324,"international master",2336,0,293,716,2017-05-04,Shanghai,4,8,1022
+758,Suwan,2324,"international master",2365,0,271,63,2023-05-21,Ganzhou,4,8,940
+759,flaranis,2324,"international master",2337,0,NULL,24,2022-12-19,,NULL,4,192
+760,math957963,2324,"international master",2559,0,80,67,2015-10-19,Yokosuka,9,4,760
+761,shenfe1,2324,"international master",2324,0,NULL,222,2021-07-28,Guangzhou,4,31,1848
+762,fqwmc,2323,"international master",2323,0,NULL,6,2020-02-16,,NULL,0,26
+763,I_love_Hoang_Yen,2322,"international master",2625,0,131,1592,2014-02-03,,28,18,3336
+764,MateoCV,2322,"international master",2574,0,294,635,2018-12-19,"Alta Gracia",68,19,4355
+765,chenhongrui,2322,"international master",2322,0,295,70,2022-07-30,Changsha,4,9,716
+766,gosu_hiroo,2322,"international master",2322,0,NULL,1,2020-12-14,,NULL,2,95
+767,marsxiang5902,2321,"international master",2321,0,NULL,74,2020-12-11,,5,5,219
+768,xwp,2321,"international master",2508,0,81,49,2021-02-16,,4,10,476
+769,JueFan,2320,"international master",2323,0,296,50,2022-01-01,Weihai,4,8,333
+770,houzhiyuan123,2320,"international master",2320,0,NULL,80,2019-02-15,Zhuji,4,13,1243
+771,mhb2010,2320,"international master",2320,0,4,42,2021-12-10,,NULL,5,344
+772,Hell2Evator,2319,"international master",2424,0,NULL,17,2022-12-03,,11,13,683
+773,Retired_Isaunoya,2319,"international master",2319,0,116,257,2018-11-17,Yiwu,4,14,2361
+774,zhangmj2008,2319,"international master",2319,0,9,33,2022-05-14,,4,6,318
+775,StevenZhu,2318,"international master",2318,0,297,86,2018-05-14,Hangzhou,4,4,224
+776,fyy2603,2318,"international master",2318,0,180,81,2017-06-28,Huzhou,4,5,233
+777,systemStart,2318,"international master",2318,0,230,7,2022-08-06,Beijing,4,2,39
+778,gortomi,2317,"international master",2317,0,18,42,2021-08-24,,10,39,771
+779,glancing_back,2316,"international master",2316,0,298,17,2018-10-04,,4,6,352
+780,lamduybao03,2316,"international master",2436,0,299,90,2022-07-06,,28,14,1297
+781,zhenja,2316,"international master",2316,0,NULL,105,2021-11-23,Lipetsk,6,11,828
+782,FSTAutoMaton,2315,"international master",2315,0,300,59,2019-01-23,,NULL,12,878
+783,KCSC,2315,"international master",2417,0,301,25,2018-11-02,Osaka,9,10,281
+784,abcdhhhh,2315,"international master",2315,0,302,14,2019-10-13,Shanghai,4,6,241
+785,gediiiiiii,2315,"international master",2315,0,93,51,2012-05-25,Shanghai,4,6,108
+786,gyydp123_LIM,2315,"international master",2315,0,303,21,2023-08-02,Hangzhou,4,11,518
+787,jiaosiyuan,2315,"international master",2315,0,NULL,28,2021-10-26,,NULL,9,526
+788,8Conan8,2314,"international master",2314,0,304,14,2020-09-03,Guangzhou,4,27,211
+789,StarCuriosity,2314,"international master",2381,0,NULL,91,2014-12-17,Moscow,6,14,1842
+790,makcvim,2314,"international master",2314,0,NULL,49,2020-02-13,,NULL,10,803
+791,EndlessDreams,2313,"international master",2366,0,NULL,200,2023-02-25,,NULL,4,225
+792,keko37,2313,"international master",2584,0,305,196,2015-03-09,Zagreb,21,6,1130
+793,olmrgcsi,2313,"international master",2604,0,110,91,2015-03-13,Taipei,15,4,464
+794,purplesyringa,2313,"international master",2313,0,306,282,2017-04-28,Moscow,6,4,355
+795,Nika_Tamliani,2312,"international master",2428,0,307,319,2016-12-22,Tbilisi,30,23,3276
+796,mbrc,2312,"international master",2312,0,205,1017,2012-08-17,Kolkata,18,11,1319
+797,876pol,2311,"international master",2311,0,NULL,36,2021-04-22,Ottawa,5,17,707
+798,Sinocchi,2311,"international master",2361,0,NULL,23,2021-08-15,,NULL,17,1032
+799,dongyc666,2311,"international master",2311,0,308,36,2020-08-02,Beijing,4,24,1101
+800,jacobtpl,2311,"international master",2380,0,NULL,89,2014-06-19,Singapore,14,6,587
+801,Barichek,2310,"international master",2768,0,309,382,2015-10-16,Uzhhorod,23,17,2674
+802,Forever_Pursuit,2310,"international master",2458,0,12,186,2020-02-15,Hangzhou,4,10,913
+803,Rudy1444,2310,"international master",2497,0,NULL,273,2014-12-01,Chisinau,69,8,1358
+804,dannalc,2310,"international master",2310,0,310,38,2022-09-19,,4,35,993
+805,tnowak,2310,"international master",2544,0,2,163,2018-07-04,Szczecin,2,49,1960
+806,Egg_eating_master,2309,"international master",2309,0,311,42,2021-04-20,Madrid,48,7,357
+807,oscar1f,2309,"international master",2309,0,NULL,51,2020-05-29,Paris,45,4,121
+808,zdc123456,2309,"international master",2499,0,NULL,173,2021-05-17,Changsha,4,13,1091
+809,Baraa_Armoush,2308,"international master",2497,0,312,1278,2018-02-20,Damascus,67,53,3695
+810,fdironia,2308,"international master",2389,0,NULL,26,2018-07-26,Shanghai,4,5,444
+811,misaka18931,2308,"international master",2308,0,313,31,2020-10-04,,NULL,4,403
+812,Minh,2307,"international master",2318,0,314,31,2020-09-02,,NULL,5,234
+813,PBBx0,2307,"international master",2307,0,NULL,49,2021-10-29,,NULL,26,402
+814,pzc2004,2307,"international master",2370,0,315,21,2018-10-04,Wenzhou,4,11,398
+815,rustaurance,2307,"international master",2307,0,NULL,22,2019-01-13,,NULL,2,94
+816,Hamed_Ghaffari,2306,"international master",2438,0,57,205,2021-12-09,Tehran,17,108,2279
+817,MohammadParsaElahimanesh,2306,"international master",2306,0,316,156,2020-07-24,Qom,17,8,521
+818,lastridem,2306,"international master",2306,0,NULL,1,2024-05-20,,NULL,2,55
+819,LOL_I_AM_SERZH,2305,"international master",2335,0,64,32,2021-07-18,"Saint Petersburg",6,7,560
+820,acmASCIS,2305,"international master",2305,0,317,804,2014-09-26,Cairo,42,0,32
+821,Isaunoya,2304,"international master",2304,0,9,145,2019-07-27,Yiwu,4,5,176
+822,SteamTurbine,2304,"international master",2458,0,NULL,175,2010-03-31,"Hong Kong",12,10,1086
+823,ilaburkov,2304,"international master",2331,0,218,45,2018-09-21,Moscow,6,5,391
+824,zas111lll,2304,"international master",2341,0,NULL,3,2022-05-19,,NULL,8,308
+825,Wansur,2303,"international master",2303,0,97,663,2021-10-02,Kyzyl-Orda,27,284,2938
+826,fire_water,2303,"international master",2326,0,NULL,46,2022-12-03,,NULL,4,207
+827,ulorew,2303,"international master",2303,0,NULL,7,2021-03-20,,NULL,8,463
+828,Unlimited_zero,2302,"international master",2412,0,318,66,2019-10-12,,NULL,4,653
+829,cjrzn,2302,"international master",2302,0,319,50,2018-02-04,Changsha,4,5,282
+830,wwdd,2302,"international master",2344,0,NULL,26,2018-09-20,,NULL,12,1167
+831,Kinon,2301,"international master",2301,0,320,97,2019-10-12,,20,8,689
+832,_i_i_,2301,"international master",2301,0,321,39,2023-05-09,,NULL,2,52
+833,cry,2301,"international master",2301,0,322,893,2021-05-10,"New York",7,53,2425
+834,katyaporay,2301,"international master",2443,0,NULL,51,2018-12-16,,6,5,412
+835,GentleSmile,2300,"international master",2300,0,14,18,2015-07-06,,4,8,165
+836,Raiden_Bosenmori_Mei,2300,"international master",2300,0,91,17,2024-06-09,Hangzhou,4,3,57
+837,emaneru,2300,"international master",2300,0,323,265,2019-03-22,"Montes Claros",25,19,3134
+838,kozliklekarsky,2300,"international master",2300,0,324,97,2021-12-17,Turceni,26,2,77
+839,temich,2300,"international master",2448,0,325,86,2012-02-12,Volgograd,6,11,1153
+840,xixizhiguan,2300,"international master",2300,0,NULL,8,2024-06-16,,NULL,3,90
+841,Orenji.Sora,2299,master,2299,0,100,105,2013-08-16,Chengdu,4,12,545
+842,bthero,2299,master,2625,0,NULL,751,2016-01-21,Ust-Kamenogorsk,27,19,2310
+843,tinca_matei,2299,master,2371,0,326,180,2016-09-21,Bucharest,26,6,862
+844,HuaJun,2298,master,2531,0,NULL,71,2015-12-01,Singapore,14,10,534
+845,bruhify,2298,master,2298,0,NULL,28,2019-12-03,Tianjin,4,6,410
+846,devinqu,2298,master,2306,0,247,290,2020-12-01,Austin,7,121,3582
+847,impermanence,2298,master,2298,0,327,146,2017-01-21,Kyiv,23,10,1694
+848,George1123,2297,master,2539,0,12,169,2016-06-21,Helsinki,41,25,1067
+849,fclvbfm934,2297,master,2367,0,NULL,6,2023-04-08,,7,19,778
+850,udhavvarma03,2297,master,2297,0,96,730,2021-11-28,,18,23,1107
+851,PET_Informatica,2296,master,2296,0,328,15,2022-05-05,Recife,25,0,29
+852,i209M,2296,master,2306,0,329,65,2020-02-20,Shijiazhuang,4,12,708
+853,yoshinoprpr,2296,master,2307,0,330,16,2016-10-22,Guangzhou,4,0,32
+854,Victoriano012,2295,master,2364,0,NULL,37,2020-04-04,,NULL,6,912
+855,ir5,2295,master,2298,0,NULL,130,2010-03-05,Tokyo,9,4,302
+856,waipoli,2295,master,2335,0,331,186,2019-05-09,Gilching,13,146,1413
+857,Gheal,2294,master,2324,0,332,322,2018-11-10,Iași,26,18,1886
+858,SergeyMelnikov,2294,master,2298,0,1,98,2010-02-28,Vologda,6,2,85
+859,skahl15,2294,master,2325,0,333,329,2018-12-04,"As Suwaydah",67,53,1948
+860,BlueBottle,2292,master,2292,0,NULL,8,2021-09-18,,NULL,3,111
+861,Jellyfishgod,2292,master,2292,0,334,54,2020-08-06,,NULL,3,83
+862,divergence1,2292,master,2292,0,NULL,10,2023-03-29,,NULL,3,103
+863,surajchip2,2292,master,2342,0,NULL,19,2017-06-19,Cupertino,7,14,473
+864,valerikk,2292,master,2488,0,13,213,2018-10-13,Kazan’,6,28,2571
+865,Hexagons,2291,master,2291,0,335,263,2022-03-30,,42,2,92
+866,loyalixa,2291,master,2291,0,336,158,2024-04-25,,NULL,2,54
+867,registeretsiger,2291,master,2771,0,NULL,65,2019-01-15,,NULL,6,885
+868,Su_Zipei,2290,master,2290,0,NULL,115,2020-03-28,,NULL,7,670
+869,dantrag,2290,master,2290,0,337,71,2016-05-10,Stockholm,22,4,746
+870,jrscy,2290,master,2467,0,NULL,11,2022-06-17,,NULL,5,315
+871,FattyPenguin,2289,master,2413,0,72,117,2011-04-13,Xiamen,4,8,605
+872,MermaidMolester,2289,master,2289,0,338,40,2018-04-25,Iași,26,12,821
+873,heaksicn,2289,master,2302,0,132,115,2021-03-03,Guangzhou,4,17,1667
+874,ll931110,2289,master,2372,0,339,274,2010-05-10,"Menlo Park",7,6,742
+875,buyolitsez,2288,master,2288,0,109,69,2018-09-18,,6,9,1044
+876,lzyrapx,2288,master,2452,0,NULL,84,2017-04-14,Shenzhen,4,10,143
+877,qingczha,2288,master,2366,0,340,343,2015-09-06,Auckland,70,16,2005
+878,vwxyz0,2288,master,2324,0,NULL,35,2021-04-03,,NULL,26,804
+879,Mackerel_Pike,2287,master,2290,0,4,145,2017-07-23,Nanjing,4,14,977
+880,Scorpioch,2287,master,2287,0,NULL,6,2019-10-19,,NULL,3,83
+881,TrendBattleswillwinioi,2287,master,2294,0,341,71,2023-08-05,"Ho Chi Minh City",28,4,121
+882,gravitsapa,2287,master,2287,0,NULL,63,2018-11-08,Yekaterinburg,6,8,997
+883,ChthollyNotaSeniorious,2286,master,2398,0,342,165,2018-05-09,Wuhu,4,5,481
+884,PixelCat,2286,master,2318,0,NULL,164,2020-03-27,,15,8,979
+885,zmy_,2286,master,2342,0,NULL,21,2020-03-12,,NULL,2,70
+886,Dilute_,2285,master,2285,0,17,43,2019-04-30,,NULL,4,64
+887,Kukarekus,2285,master,2314,0,NULL,38,2017-12-20,Irkutsk,6,5,357
+888,cqbztl,2285,master,2285,0,NULL,22,2022-02-18,,NULL,8,400
+889,jtnydv25,2285,master,2675,0,143,3879,2015-12-09,"New Delhi",18,10,1528
+890,qdd,2285,master,2285,0,9,101,2013-12-13,Beijing,4,7,951
+891,1021839,2284,master,2348,0,NULL,114,2017-01-25,Perth,56,5,278
+892,Error_Yuan,2284,master,2291,0,343,181,2022-05-02,Zhenjiang,4,13,918
+893,RecursiveCo,2284,master,2284,0,344,99,2022-11-12,Geneva,49,8,746
+894,prins,2284,master,2316,0,345,248,2017-01-18,Bogotá,71,18,2052
+895,GoreMneGore,2283,master,2283,0,NULL,26,2020-03-19,,NULL,0,39
+896,Oshwiciqwqq,2283,master,2299,0,113,96,2017-08-24,Beijing,4,6,498
+897,dongruixuan,2283,master,2283,0,NULL,22,2020-09-29,,NULL,6,263
+898,Carpenters_Cat,2282,master,2282,0,80,2,2020-07-22,Tokyo,9,3,223
+899,Jackie1578,2282,master,2282,0,NULL,9,2018-04-11,,NULL,3,106
+900,Meatherm,2282,master,2359,0,59,119,2019-02-01,Chengdu,4,7,861
+901,shiven,2282,master,2370,0,346,1170,2019-12-29,"Bokaro Steel City",18,26,1960
+902,114514,2281,master,2326,0,197,33,2022-01-03,,NULL,2,188
+903,KingOfGenshin,2281,master,2281,0,347,13,2023-08-28,,NULL,3,61
+904,Minhho2005,2281,master,2281,0,NULL,86,2021-05-27,,28,8,784
+905,SxyLimit,2281,master,2281,0,NULL,33,2020-08-10,,NULL,0,35
+906,simpatine,2281,master,2281,0,NULL,69,2018-07-04,,36,4,454
+907,yan_qiu_ynlchrz,2281,master,2348,0,348,51,2019-08-11,Taizhou,4,13,610
+908,BreakPlus,2280,master,2422,0,NULL,148,2020-04-15,Berlin,13,18,1314
+909,Hikori,2280,master,2280,0,NULL,25,2019-09-15,Tokyo,9,8,339
+910,Rpd-Strike,2280,master,2280,0,30,139,2013-11-09,Bucharest,26,9,1058
+911,fr200110217102,2280,master,2414,0,91,80,2020-09-12,Hangzhou,4,10,2172
+912,-2x9_21-,2279,master,2370,0,286,19,2019-07-30,Beijing,4,6,359
+913,abeker,2279,master,2585,0,NULL,172,2013-11-11,Zagreb,21,10,1822
+914,oolimry,2279,master,2387,0,244,130,2019-03-24,Singapore,14,7,353
+915,111445,2278,master,2278,0,NULL,27,2023-11-25,,NULL,5,47
+916,Nelson_loh,2278,master,2350,0,349,31,2019-09-20,"Kuala Lumpur",72,14,854
+917,askd,2278,master,2362,0,350,125,2019-06-27,"New York",7,18,1705
+918,toma_ariciu,2278,master,2278,0,214,97,2020-11-20,Bucharest,26,22,437
+919,whdywjd,2278,master,2278,0,230,54,2021-10-17,Beijing,4,0,0
+920,ybw051114,2278,master,2278,0,86,43,2018-06-30,Changzhou,4,15,550
+921,Theo830,2277,master,2385,0,NULL,228,2019-06-06,Limassol,51,77,2874
+922,menborong,2277,master,2482,0,351,118,2021-07-20,,8,7,1035
+923,vlp,2277,master,2277,0,352,55,2021-04-18,"Saint Petersburg",6,33,1107
+924,ykx,2277,master,2370,0,NULL,9,2013-01-19,,4,8,291
+925,Lidox1145143344,2276,master,2394,0,318,25,2019-09-30,Nanjing,4,2,59
+926,ReynardT,2276,master,2276,0,NULL,6,2023-09-28,,NULL,5,78
+927,biximo,2276,master,2279,0,353,124,2021-10-08,,8,10,416
+928,magnified,2276,master,2501,0,NULL,212,2019-01-05,,11,13,2015
+929,MlSONO_MIKA,2275,master,2275,0,197,16,2021-12-07,,4,0,46
+930,athin,2275,master,2362,0,354,241,2012-08-14,,20,5,505
+931,muratt,2275,master,2732,0,NULL,519,2014-03-04,,73,13,1636
+932,EmmaXII,2274,master,2274,0,NULL,10,2024-08-17,,NULL,7,113
+933,NaOH_Frog,2274,master,2399,0,355,125,2020-02-16,Shenzhen,4,13,373
+934,chernega,2274,master,2274,0,NULL,43,2011-10-21,Kazan’,6,17,397
+935,lcaonmst,2274,master,2288,0,2,42,2018-10-02,Lębork,2,10,618
+936,059-354-448,2273,master,2273,0,NULL,5,2020-08-16,,NULL,3,187
+937,GOODer,2273,master,2377,0,27,43,2019-09-22,Wuhu,4,6,309
+938,MarSer020,2273,master,2273,0,9,51,2021-03-18,Changsha,4,28,1002
+939,TimDee,2273,master,2297,0,356,452,2021-11-30,,50,133,1253
+940,yangchang,2273,master,2273,0,NULL,36,2021-12-17,,NULL,10,347
+941,JamesCole,2272,master,2272,0,131,21,2017-01-25,,28,2,60
+942,alexdd,2272,master,2272,0,NULL,48,2021-10-10,Cluj-Napoca,26,6,385
+943,i_love_yxx,2272,master,2272,0,NULL,5,2024-04-30,Winnipeg,5,0,24
+944,qilby,2272,master,2272,0,357,122,2020-06-07,Gomel,1,16,1303
+945,zmwang,2272,master,2291,0,126,42,2018-04-14,Qingdao,4,4,354
+946,Grey_Crane_Is_Here,2271,master,2271,0,NULL,29,2021-11-17,,NULL,9,261
+947,Silver_Fox,2271,master,2271,0,358,97,2016-02-16,Vologda,6,9,450
+948,lvovkir,2271,master,2271,0,359,16,2020-10-13,Amsterdam,16,3,88
+949,GOTKAKO,2270,master,2326,0,NULL,8,2023-05-04,,9,12,935
+950,_Grice,2270,master,2350,0,NULL,16,2021-05-23,,NULL,2,56
+951,yb13558h,2270,master,2270,0,360,19,2022-09-12,Jinan,4,4,350
+952,Redpo,2269,master,2338,0,NULL,30,2021-02-06,Beijing,4,21,520
+953,kwoncycle,2269,master,2278,0,351,81,2020-08-02,Busan,8,4,616
+954,scli_kws,2269,master,2450,0,NULL,16,2019-12-14,,NULL,4,134
+955,CRH380BL,2268,master,2379,0,361,8,2020-08-19,,4,14,380
+956,_chroneZ,2268,master,2397,0,9,39,2022-11-14,Xi'an,4,7,694
+957,jiufeng,2268,master,2408,0,362,602,2019-06-09,Hangzhou,4,6,610
+958,pavlekn,2268,master,2457,0,13,149,2017-04-30,Moscow,6,7,830
+959,Spitfire_F_Mk_IX,2267,master,2267,0,NULL,6,2020-07-09,,NULL,6,220
+960,dshindov,2267,master,2267,0,363,175,2020-02-02,Novosibirsk,6,14,601
+961,gongbaoa,2267,master,2267,0,100,98,2011-02-18,Chengdu,4,4,229
+962,Missyou,2266,master,2350,0,364,211,2019-09-12,,4,14,1774
+963,Scarlet_Hypoc,2266,master,2266,0,NULL,26,2019-09-21,,NULL,6,386
+964,Xun_Xiaoyao,2266,master,2266,0,NULL,32,2022-07-21,Wuhan,4,7,280
+965,c.young_sb,2266,master,2384,0,365,16,2018-11-24,,NULL,7,356
+966,onufryw,2266,master,2266,0,72,47,2015-04-22,Warsaw,2,2,45
+967,Dibu20150208,2265,master,2265,0,NULL,17,2022-04-08,,NULL,5,169
+968,JeffreyLC,2265,master,2465,0,72,102,2015-01-23,"Hong Kong",12,11,1471
+969,Pablo-No,2265,master,2265,0,366,59,2021-05-30,Valladolid,48,25,761
+970,Z_actuary,2265,master,2265,0,NULL,20,2023-08-15,,NULL,3,146
+971,roIandpetrean,2265,master,2265,0,331,45,2023-05-12,Zaraza,74,2,70
+972,Berted,2264,master,2304,0,32,172,2017-10-01,Medan,20,12,939
+973,EmeraldBlock,2264,master,2328,0,NULL,94,2021-01-13,,NULL,4,102
+974,_Rise,2264,master,2264,0,367,52,2019-11-27,,NULL,13,1168
+975,guoziyang,2264,master,2264,0,NULL,17,2021-11-21,,NULL,9,299
+976,liuq901,2264,master,2264,0,93,76,2010-11-13,Shanghai,4,4,353
+977,Ai_Haibara,2263,master,2263,0,212,47,2020-01-15,Tianjin,4,13,610
+978,Edlue,2263,master,2332,0,368,66,2020-09-16,,7,20,2586
+979,Pakalns,2263,master,2263,0,369,51,2012-10-07,Cēsis,63,14,589
+980,hpfdf,2263,master,2284,0,72,53,2010-02-24,Changsha,4,12,666
+981,thawin.ice,2263,master,2263,0,NULL,33,2023-03-06,,60,5,127
+982,xvzhiming,2263,master,2263,0,370,51,2021-04-03,Zibo,4,32,2561
+983,DemenBeoU,2262,master,2262,0,NULL,38,2023-11-03,,NULL,0,77
+984,TimonKnigge,2262,master,2528,0,371,137,2015-02-04,,16,8,807
+985,YxqK,2262,master,2354,0,372,37,2015-05-19,Xi'an,4,10,2163
+986,iterater,2262,master,2305,0,86,33,2018-10-06,Changzhou,4,9,715
+987,lemelisk,2262,master,2262,0,NULL,139,2017-01-03,Izhevsk,6,3,396
+988,sillylittleidiot77,2262,master,2468,0,NULL,13,2022-12-31,,NULL,49,1116
+989,DerrickLo,2261,master,2261,0,105,19,2022-08-02,,4,8,678
+990,LOOP0,2261,master,2261,0,NULL,44,2022-09-04,,NULL,29,777
+991,ngfam_kongu,2261,master,2518,0,1,714,2011-01-31,"Buon Ma Thuot",28,13,2420
+992,PhoenixFly,2260,master,2260,0,189,15,2019-12-21,,75,3,130
+993,fatemetmhr,2260,master,2419,0,48,353,2020-02-03,Tehran,17,30,2122
+994,shiqingbaiya666,2260,master,2260,0,NULL,32,2022-02-19,Chongqing,4,7,483
+995,10tus,2259,master,2265,0,55,16,2024-03-11,,4,15,520
+996,Jajceslav,2259,master,2358,0,107,176,2016-06-29,Starokostyantyniv,23,6,753
+997,The_Original_Popeye,2259,master,2302,0,NULL,17,2019-10-25,,NULL,2,97
+998,aufannn,2259,master,2279,0,9,202,2022-03-12,Bandung,20,73,3363
+999,AbelCat,2258,master,2258,0,NULL,27,2022-08-04,,NULL,3,482
+1000,DW_Zhouyu,2258,master,2258,0,142,86,2015-06-26,Changsha,4,13,977

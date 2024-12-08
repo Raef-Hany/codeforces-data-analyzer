@@ -1,0 +1,1001 @@
+problem_id,title,difficulty
+1120B,"Once in a casinoconstructive algorithms,greedy,implementation,math",2700
+1120C,"Compress Stringdp,strings",2100
+1120D,"Power Treedfs and similar,dp,dsu,graphs,greedy,trees",2500
+1120E,"The very same Munchhausenbrute force",2600
+1120F,"Secret Lettersdata structures,dp,greedy",3100
+1121A,"Technogoblet of Fireimplementation,sortings",1100
+1121B,"Mike and Childrenbrute force,implementation",1200
+1121C,"System Testingimplementation",1600
+1129A1,"Toy Train (Simplified)brute force,greedy",1700
+1129A2,"Toy Trainbrute force,greedy",1800
+1129B,"Wrong Answerconstructive algorithms",2000
+1129C,"Morse Codebinary search,data structures,dp,hashing,sortings,string suffix structures,strings",2400
+1129D,"Isolationdata structures,dp",2900
+1129E,"Legendary Treebinary search,interactive,trees",3100
+1130A,"Be Positiveimplementation",800
+1130B,"Two Cakesgreedy",1200
+1130C,"Connectbrute force,dfs and similar,dsu",1400
+1131A,"Sea Battlemath",800
+1131B,"Draw!greedy,implementation",1400
+1131C,"Birthdaybinary search,greedy,sortings",1200
+1131D,"Gourmet choicedfs and similar,dp,dsu,graphs,greedy",2000
+1131E,"String Multiplicationdp,greedy,strings",2300
+1131F,"Asya And Kittensconstructive algorithms,dsu",1700
+1131G,"Most Dangerous Sharkdata structures,dp,two pointers",2700
+1132A,"Regular Bracket Sequencegreedy,implementation",1100
+1132B,"Discountsgreedy,sortings",900
+1132C,"Painting the Fencebrute force",1700
+1132D,"Stressful Trainingbinary search,greedy",2300
+1132E,"Knapsackdfs and similar,dp,greedy",2300
+1132F,"Clear the Stringdp",2000
+1132G,"Greedy Subsequencesdata structures,dp,trees",2400
+1133A,"Middle of the Contestimplementation",1000
+1133B,"Preparation for International Women's Daymath,number theory",1200
+1133C,"Balanced Teamsortings,two pointers",1200
+1133D,"Zero Quantity Maximizationhashing,math,number theory",1500
+1133E,"K Balanced Teamsdp,sortings,two pointers",1800
+1133F1,"Spanning Tree with Maximum Degreegraphs",1600
+1133F2,"Spanning Tree with One Fixed Degreeconstructive algorithms,dfs and similar,dsu,graphs,greedy",1900
+1136A,"Nastya Is Reading a Bookimplementation",800
+1136B,"Nastya Is Playing Computer Gamesconstructive algorithms,math",1000
+1136C,"Nastya Is Transposing Matricesconstructive algorithms,sortings",1500
+1136D,"Nastya Is Buying Lunchgreedy",1800
+1136E,"Nastya Hasn't Written a Legendbinary search,data structures",2200
+1137A,"Skyscrapersimplementation,sortings",1600
+1137B,"Camp Schedulegreedy,hashing,strings",1600
+1137C,"Museums Tourdp,graphs,implementation",2500
+1137D,"Cooperative Gameconstructive algorithms,interactive,number theory",2400
+1137E,"Train Car Selectiondata structures,greedy",2700
+1137F,"Matches Are Not a Child's Playdata structures,trees",3400
+1138A,"Sushi for Twobinary search,greedy,implementation",900
+1138B,"Circusbrute force,greedy,math,strings",1800
+1139A,"Even Substringsimplementation,strings",800
+1139B,"Chocolatesgreedy,implementation",1000
+1139C,"Edgy Treesdfs and similar,dsu,graphs,math,trees",1500
+1139D,"Steps to Onedp,math,number theory,probabilities",2300
+1139E,"Maximize Mexflows,graph matchings,graphs",2400
+1139F,"Dish Shoppingdata structures,divide and conquer",2500
+1140A,"Detective Bookimplementation",1000
+1140B,"Good Stringimplementation,strings",1200
+1140C,"Playlistbrute force,data structures,sortings",1600
+1140D,"Minimum Triangulationdp,greedy,math",1200
+1140E,"Palindrome-less Arrayscombinatorics,divide and conquer,dp",2200
+1140F,"Extending Set of Pointsdata structures,divide and conquer,dsu",2600
+1140G,"Double Treedata structures,divide and conquer,shortest paths,trees",2700
+1141A,"Game 23implementation,math",1000
+1141B,"Maximal Continuous Restimplementation",900
+1141C,"Polycarp Restores Permutationmath",1500
+1141D,"Colored Bootsgreedy,implementation",1500
+1141E,"Superhero Battlemath",1700
+1141F1,"Same Sum Blocks (Easy)greedy",1900
+1141F2,"Same Sum Blocks (Hard)data structures,greedy",1900
+1141G,"Privatization of Roads in Treelandbinary search,constructive algorithms,dfs and similar,graphs,greedy,trees",1900
+1142A,"The Beatlesbrute force,math",1700
+1142B,"Lynyrd Skynyrddata structures,dfs and similar,dp,math,trees",2000
+1142C,U2geometry,2400
+1142D,Foreignerdp,2800
+1142E,"Pink Floydgraphs,interactive",3200
+1143A,"The Doorsimplementation",800
+1143B,"Nirvanabrute force,math,number theory",1200
+1143C,"Queendfs and similar,trees",1400
+1144A,"Diverse Stringsimplementation,strings",800
+1144B,"Parity Alternated Deletionsgreedy,implementation,sortings",900
+1144C,"Two Shuffled Sequencesconstructive algorithms,sortings",1000
+1144D,"Equalize Them Allconstructive algorithms,greedy",1400
+1144E,"Median Stringbitmasks,math,number theory,strings",1900
+1144F,"Graph Without Long Directed Pathsdfs and similar,graphs",1700
+1145A,"Thanos Sortimplementation",0
+1145C,"Mystery Circuitbitmasks,brute force",0
+1145E,"Fourier Doodles",0
+1145G,"AI Takeoverinteractive",0
+1146A,"Love "A"implementation,strings",800
+1146B,"Hate "A"implementation,strings",1100
+1146C,"Tree Diameterbitmasks,graphs,interactive",1700
+1146D,"Frog Jumpingdfs and similar,math,number theory",2100
+1146E,"Hot is Coldbitmasks,data structures,divide and conquer,implementation",2400
+1146F,"Leaf Partitiondp,trees",2500
+1146G,"Zoning Restrictionsdp,flows,graphs",2700
+1146H,"Satanic Panicdp,geometry",2900
+1147A,"Hide and Seekgraphs",1500
+1147B,"Chladni Figurebrute force,strings",1900
+1147C,"Thanos Nimgames",2000
+1147D,"Palindrome XORdfs and similar,graphs",2400
+1147E,"Rainbow Coinsinteractive",3000
+1147F,"Zigzag Gamegames,interactive",3500
+1148A,"Another One Bites The Dustgreedy",800
+1148B,"Born This Waybinary search,brute force,two pointers",1600
+1148C,"Crazy Diamondconstructive algorithms,sortings",1700
+1148D,"Dirty Deeds Done Dirt Cheapgreedy,sortings",1800
+1148E,"Earth Wind and Fireconstructive algorithms,greedy,math,sortings,two pointers",2300
+1148F,"Foo Fightersbitmasks,constructive algorithms",2700
+1148G,"Gold Experienceconstructive algorithms,graphs,math,number theory,probabilities",3300
+1148H,"Holy Diverdata structures",3500
+1149A,"Prefix Sum Primesconstructive algorithms,greedy,math,number theory",1200
+1149B,"Three Religionsdp,implementation,strings",2200
+1149C,"Tree Generator™data structures,implementation,trees",2700
+1149D,"Abandoning Roadsbrute force,dp,graphs,greedy",3000
+1149E,"Election Promisesgames,graphs",3200
+1150A,"Stock Arbitraginggreedy,implementation",800
+1150B,"Tiling Challengegreedy,implementation",900
+1151A,"Maxim and Biologybrute force,strings",1000
+1151B,"Dima and a Bad XORbitmasks,brute force,constructive algorithms,dp",1600
+1151C,"Problem for Nazarconstructive algorithms,math",1800
+1151D,"Stas and the Queue at the Buffetgreedy,math,sortings",1600
+1151E,"Number of Componentscombinatorics,data structures,dp,math",2100
+1151F,"Sonya and Informaticscombinatorics,dp,matrices,probabilities",2300
+1152A,"Neko Finds Grapesgreedy,implementation,math",800
+1152B,"Neko Performs Cat Furrier Transformbitmasks,constructive algorithms,dfs and similar,math",1300
+1152C,"Neko does Mathsbrute force,math,number theory",1800
+1152D,"Neko and Aki's Prankdp,greedy,trees",2100
+1152E,"Neko and Flashbackconstructive algorithms,dfs and similar,graphs",2400
+1152F1,"Neko Rules the Catniverse (Small Version)bitmasks,dp,matrices",2800
+1152F2,"Neko Rules the Catniverse (Large Version)bitmasks,dp,matrices",3000
+1153A,"Serval and Busbrute force,math",1000
+1153B,"Serval and Toy Bricksconstructive algorithms,greedy",1200
+1153C,"Serval and Parenthesis Sequencegreedy,strings",1700
+1153D,"Serval and Rooted Treebinary search,dfs and similar,dp,greedy,trees",1900
+1153E,"Serval and Snakebinary search,brute force,interactive",2200
+1153F,"Serval and Bonus Problemcombinatorics,dp,math,probabilities",2600
+1154A,"Restoring Three Numbersmath",800
+1154B,"Make Them Equalmath",1200
+1154C,"Gourmet Catimplementation,math",1400
+1154D,"Walking Robotgreedy",1500
+1154E,"Two Teamsdata structures,implementation,sortings",1800
+1154F,"Shovels Shopdp,greedy,sortings",2100
+1154G,"Minimum Possible LCMbrute force,greedy,math,number theory",2200
+1155A,"Reverse a Substringimplementation,sortings,strings",1000
+1155B,"Game with Telephone Numbersgames,greedy,implementation",1200
+1155C,"Alarm Clocks Everywheremath,number theory",1300
+1155D,"Beautiful Arraybrute force,data structures,divide and conquer,dp,greedy",1900
+1155E,"Guess the Rootbrute force,interactive,math",2200
+1155F,"Delivery Oligopolybrute force,dp,graphs",2800
+1156A,"Inscribed Figuresgeometry",1400
+1156B,"Ugly Pairsdfs and similar,greedy,implementation,sortings,strings",1800
+1156C,"Match Pointsbinary search,greedy,sortings,ternary search,two pointers",2000
+1156D,"0-1-Treedfs and similar,divide and conquer,dp,dsu,trees",2200
+1156E,"Special Segments of Permutationdata structures,divide and conquer,dsu,two pointers",2200
+1156F,"Card Bagdp,math,probabilities",2300
+1156G,"Optimizergraphs,greedy,hashing,implementation",2700
+1157A,"Reachable Numbersimplementation",1100
+1157B,"Long Numbergreedy",1300
+1157C1,"Increasing Subsequence (easy version)greedy",1300
+1157C2,"Increasing Subsequence (hard version)greedy",1700
+1157D,"N Problems During K Daysconstructive algorithms,greedy,math",1900
+1157E,"Minimum Arraybinary search,data structures,greedy",1700
+1157F,"Maximum Balanced Circleconstructive algorithms,dp,greedy,two pointers",2000
+1157G,"Inverse of Rows and Columnsbrute force,constructive algorithms",2200
+1158A,"The Party and Sweetsbinary search,constructive algorithms,greedy,implementation,math,sortings,two pointers",1500
+1158B,"The minimal unique substringconstructive algorithms,math,strings",2200
+1158C,"Permutation recoveryconstructive algorithms,data structures,dfs and similar,graphs,greedy,math,sortings",2100
+1158D,"Winding polygonal lineconstructive algorithms,geometry,greedy,math",2600
+1158E,"Strange devicebinary search,interactive,math,trees",3400
+1158F,"Density of subarraysdp,math",3500
+1159A,"A pile of stonesimplementation,math",800
+1160A2,"Collaboration*special problem",0
+1162A,"Zoning Restrictions Againimplementation",800
+1162B,"Double Matrixbrute force,greedy",1400
+1163A,"Eating Soupgreedy,math",900
+1163B1,"Cat Party (Easy Edition)data structures,implementation",1500
+1163B2,"Cat Party (Hard Edition)data structures,implementation",1600
+1163C1,"Power Transmission (Easy Edition)brute force,geometry",1900
+1163C2,"Power Transmission (Hard Edition)data structures,geometry,implementation,math",1900
+1163D,"Mysterious Codedp,strings",2100
+1163E,"Magical Permutationbitmasks,brute force,constructive algorithms,data structures,graphs,math",2400
+1163F,"Indecisive Taxi Feedata structures,graphs,shortest paths",3000
+1165A,"Remainderimplementation,math",1100
+1165B,"Polycarp Trainingdata structures,greedy,sortings",1000
+1165C,"Good Stringgreedy",1300
+1165D,"Almost All Divisorsmath,number theory",1600
+1165E,"Two Arrays and Sum of Functionsgreedy,math,sortings",1600
+1165F1,"Microtransactions (easy version)binary search,greedy",2000
+1165F2,"Microtransactions (hard version)binary search,greedy,implementation",2000
+1166A,"Silent Classroomcombinatorics,greedy",900
+1166B,"All the Vowels Pleaseconstructive algorithms,math,number theory",1100
+1166C,"A Tale of Two Landsbinary search,sortings,two pointers",1500
+1166D,"Cute Sequencesbinary search,brute force,greedy,math",2200
+1166E,"The LCMs Must be Largebitmasks,brute force,constructive algorithms,math,number theory",2100
+1166F,"Vicky's Delivery Servicedata structures,dsu,graphs,hashing",2400
+1167A,"Telephone Numberbrute force,greedy,strings",800
+1167B,"Lost Numbersbrute force,divide and conquer,interactive,math",1400
+1167C,"News Distributiondfs and similar,dsu,graphs",1400
+1167D,"Bicolored RBSconstructive algorithms,greedy",1500
+1167E,"Range Deletingbinary search,combinatorics,data structures,two pointers",2100
+1167F,"Scalar Queriescombinatorics,data structures,math,sortings",2300
+1167G,"Low Budget Inceptionbrute force,geometry",3100
+1168A,"Increasing by Modulobinary search,greedy",1700
+1168B,"Good Triplebrute force,two pointers",1900
+1168C,"And Reachabilitybitmasks,dp",2200
+1168D,"Anagram Pathsdp,implementation,trees",3000
+1168E,"Xor Permutationsconstructive algorithms,math",3100
+1169A,"Circle Metroimplementation,math",900
+1170A,"Three Integers Again*special problem,math",0
+1170C,"Minus and Minus Give Plus*special problem,implementation,strings",0
+1170E,"Sliding Doors*special problem,binary search",0
+1170G,"Graph Decomposition*special problem,graphs",0
+1170I,"Good Subsets*special problem,dp",0
+1172A,"Nauuo and Cardsgreedy,implementation",1800
+1172B,"Nauuo and Circlecombinatorics,dfs and similar,dp,trees",1900
+1172C1,"Nauuo and Pictures (easy version)dp,probabilities",2300
+1172C2,"Nauuo and Pictures (hard version)dp,probabilities",2600
+1172D,"Nauuo and Portalsconstructive algorithms",2900
+1172E,"Nauuo and ODTdata structures",3300
+1172F,"Nauuo and Bugdata structures",3300
+1173A,"Nauuo and Votesgreedy",800
+1173B,"Nauuo and Chessconstructive algorithms,greedy",1100
+1174A,"Ehab Fails to Be Thanosconstructive algorithms,greedy,sortings",1000
+1174B,"Ehab Is an Odd Personsortings",1200
+1174C,"Ehab and a Special Coloring Problemconstructive algorithms,number theory",1300
+1174D,"Ehab and the Expected XOR Problembitmasks,constructive algorithms",1900
+1174E,"Ehab and the Expected GCD Problemcombinatorics,dp,math,number theory",2500
+1174F,"Ehab and the Big Finaleconstructive algorithms,divide and conquer,graphs,implementation,interactive,trees",2400
+1175A,"From Hero to Zeroimplementation,math",900
+1175B,"Catch Overflow!data structures,expression parsing,implementation",1600
+1175C,"Electrificationbinary search,brute force,greedy",1600
+1175D,"Array Splittinggreedy,sortings",1900
+1175E,"Minimal Segment Coverdata structures,dfs and similar,divide and conquer,dp,greedy,implementation,trees",2200
+1175F,"The Number of Subpermutationsbrute force,data structures,divide and conquer,hashing,math",2500
+1175G,"Yet Another Partiton Problemdata structures,divide and conquer,dp,geometry,two pointers",3000
+1176A,"Divide it!brute force,greedy,implementation",800
+1176B,"Merge it!math",1100
+1176C,"Lose it!dp,greedy,implementation",1300
+1176D,"Recover it!dfs and similar,graphs,greedy,number theory,sortings",1800
+1176E,"Cover it!dfs and similar,dsu,graphs,shortest paths,trees",1700
+1176F,"Destroy it!dp,implementation,sortings",2100
+1177A,"Digits Sequence (Easy Edition)implementation",1000
+1177B,"Digits Sequence (Hard Edition)binary search,divide and conquer,implementation",1800
+1178A,"Prime Ministergreedy",800
+1178B,"WOW Factordp,strings",1300
+1178C,"Tilescombinatorics,greedy,math",1300
+1178D,"Prime Graphconstructive algorithms,greedy,math,number theory",1500
+1178E,"Archaeologybrute force,constructive algorithms,greedy,strings",1900
+1178F1,"Short Colorful Stripcombinatorics,dfs and similar,dp",2200
+1178F2,"Long Colorful Stripdp",2600
+1178G,"The Awesomest Vertexdata structures,dfs and similar",3000
+1178H,"Stock Exchangebinary search,flows,graphs",3500
+1179A,"Valeriy and Dequedata structures,implementation",1500
+1179B,"Tolik and His Uncleconstructive algorithms",1800
+1179C,"Serge and Dining Roombinary search,data structures,graph matchings,greedy,implementation,math,trees",2200
+1179D,"Fedor Runs for Presidentdata structures,dp,trees",2700
+1179E,"Alesya and Discrete Mathdivide and conquer,interactive",3200
+1180A,"Alex and a Rhombusdp,implementation,math",800
+1180B,"Nick and Arraygreedy,implementation",1500
+1181A,"Chunga-Changagreedy,math",1000
+1181B,"Split a Numbergreedy,implementation,strings",1500
+1181C,"Flagbrute force,combinatorics,dp,implementation",1900
+1181D,"Irrigationbinary search,data structures,implementation,sortings,trees,two pointers",2200
+1181E1,"A Story of One Country (Easy)brute force,divide and conquer,sortings",2500
+1181E2,"A Story of One Country (Hard)brute force,greedy,sortings",3000
+1182A,"Filling Shapesdp,math",1000
+1182B,"Plus from Picturedfs and similar,implementation,strings",1300
+1182C,"Beautiful Lyricsdata structures,greedy,strings",1700
+1182D,"Complete Mirrorconstructive algorithms,dfs and similar,dp,hashing,implementation,trees",2400
+1182E,"Product Oriented Recurrencedp,math,matrices,number theory",2300
+1182F,"Maximum Sinebinary search,data structures,number theory",2700
+1183A,"Nearest Interesting Numberimplementation",800
+1183B,"Equalize Pricesmath",900
+1183C,"Computer Gamebinary search,math",1400
+1183D,"Candy Box (easy version)greedy,sortings",1400
+1183E,"Subsequences (easy version)dp,graphs,implementation,shortest paths",2000
+1183F,"Topforces Strikes Backbrute force,math,sortings",2100
+1183G,"Candy Box (hard version)greedy,implementation,sortings",2000
+1183H,"Subsequences (hard version)dp,strings",1900
+1184A1,"Heidi Learns Hashing (Easy)brute force,math,number theory",1200
+1184A2,"Heidi Learns Hashing (Medium)brute force,number theory",2100
+1184A3,"Heidi Learns Hashing (Hard)fft,math,number theory",3100
+1184B1,"The Doctor Meets Vader (Easy)binary search,sortings",1400
+1184B2,"The Doctor Meets Vader (Medium)flows,graph matchings,graphs,shortest paths,sortings",2200
+1184B3,"The Doctor Meets Vader (Hard)flows,shortest paths",2700
+1184C1,"Heidi and the Turing Test (Easy)implementation",1600
+1184C2,"Heidi and the Turing Test (Medium)data structures",2200
+1184C3,"Heidi and the Turing Test (Hard)",3200
+1184D1,"Parallel Universes (Easy)implementation",1600
+1184D2,"Parallel Universes (Hard)math,matrices",3100
+1184E1,"Daleks' Invasion (easy)graphs,trees",1900
+1184E2,"Daleks' Invasion (medium)dfs and similar,graphs,shortest paths,trees",2100
+1184E3,"Daleks' Invasion (hard)data structures,dsu,graphs,trees",2400
+1185A,Ropewalkersmath,800
+1185B,"Email from Polycarpimplementation,strings",1200
+1185C1,"Exam in BerSU (easy version)greedy,sortings",1200
+1185C2,"Exam in BerSU (hard version)brute force,data structures,greedy,math",1700
+1185D,"Extra Elementimplementation,math",1700
+1185E,"Polycarp and Snakesbrute force,implementation",2000
+1185F,"Two Pizzasbitmasks,brute force",2100
+1185G1,"Playlist for Polycarp (easy version)bitmasks,combinatorics,dp",2100
+1185G2,"Playlist for Polycarp (hard version)combinatorics,dp",2600
+1186A,"Vus the Cossack and a Contestimplementation",800
+1186C,"Vus the Cossack and Stringsimplementation,math",1800
+1186D,"Vus the Cossack and Numbersconstructive algorithms,greedy,math",1500
+1186E,"Vus the Cossack and a Fielddivide and conquer,implementation,math",2500
+1186F,"Vus the Cossack and a Graphdfs and similar,graphs,greedy,implementation",2400
+1187A,"Stickers and Toysmath",900
+1187B,"Letters Shopbinary search,implementation,strings",1300
+1187C,"Vasya And Arrayconstructive algorithms,greedy,implementation",1800
+1187D,"Subarray Sortingdata structures,sortings",2400
+1187E,"Tree Paintingdfs and similar,dp,trees",2100
+1187F,"Expected Square Beautydp,math,probabilities",2500
+1187G,"Gang Upflows,graphs",2500
+1188A1,"Add on a Treetrees",1600
+1188A2,"Add on a Tree: Revolutionconstructive algorithms,dfs and similar,implementation,trees",2500
+1188B,"Count Pairsmath,matrices,number theory,two pointers",2300
+1188C,"Array Beautydp",2500
+1188D,"Make Equaldp",3100
+1188E,"Problem from Red Pandacombinatorics",3300
+1189A,"Keanu Reevesstrings",800
+1189B,"Number Circlegreedy,math,sortings",1100
+1189C,"Candies!data structures,dp,implementation,math",1400
+1190A,"Tokitsukaze and Discard Itemsimplementation,two pointers",1400
+1190B,"Tokitsukaze, CSL and Stone Gamegames",1800
+1190C,"Tokitsukaze and Duelbrute force,games,greedy",2300
+1190D,"Tokitsukaze and Strange Rectangledata structures,divide and conquer,sortings,two pointers",2000
+1190E,"Tokitsukaze and Explosionbinary search,greedy",3100
+1190F,"Tokitsukaze and Powersnumber theory,probabilities",3400
+1191A,"Tokitsukaze and Enhancementbrute force",800
+1191B,"Tokitsukaze and Mahjongbrute force,implementation",1200
+1192B,"Dynamic Diameter*special problem,data structures,dfs and similar,divide and conquer,trees",0
+1193A,"Amusement Park*special problem,dp,math",0
+1193C,"Scissors and Tape*special problem,constructive algorithms,geometry",0
+1194A,"Remove a Progressionmath",800
+1194B,"Yet Another Crosses Problemimplementation",1300
+1194C,"From S To Timplementation,strings",1300
+1194D,"1-2-K Gamegames,math",1700
+1194E,"Count The Rectanglesbitmasks,brute force,data structures,geometry,sortings",2200
+1194F,"Crossword Expertcombinatorics,dp,number theory,probabilities,two pointers",2400
+1194G,"Another Meme Problemdp",2700
+1195A,"Drinks Choosinggreedy,math",1000
+1195B,"Sport Mafiabinary search,brute force,math",1000
+1195C,"Basketball Exercisedp",1400
+1195D1,"Submarine in the Rybinsk Sea (easy edition)combinatorics,math,number theory",1500
+1195D2,"Submarine in the Rybinsk Sea (hard edition)combinatorics,math,number theory",1800
+1195E,"OpenStreetMapdata structures,two pointers",2100
+1195F,"Geometers Anonymous Clubdata structures,geometry,math,sortings",2500
+1196A,"Three Piles of Candiesbrute force,constructive algorithms,math",800
+1196B,"Odd Sum Segmentsconstructive algorithms,math",1200
+1196C,"Robot Breakoutimplementation",1500
+1196D1,"RGB Substring (easy version)implementation",1500
+1196D2,"RGB Substring (hard version)data structures,dp,implementation,two pointers",1600
+1196E,"Connected Component on a Chessboardconstructive algorithms,implementation",1800
+1196F,"K-th Pathbrute force,constructive algorithms,shortest paths,sortings",2200
+1197A,"DIY Wooden Laddergreedy,math,sortings",900
+1197B,"Pillarsgreedy,implementation",1000
+1197C,"Array Splittinggreedy,sortings",1400
+1197D,"Yet Another Subarray Problemdp,greedy,math",1900
+1197E,"Culture Codebinary search,combinatorics,data structures,dp,shortest paths,sortings",2300
+1197F,"Coloring Gamedp,games,matrices",2700
+1198A,"MP3sortings,two pointers",1600
+1198B,"Welfare Statebinary search,brute force,data structures,sortings",1600
+1198C,"Matching vs  Independent Setconstructive algorithms,graphs,greedy,sortings",2000
+1198D,"Rectangle Painting 1dp",2300
+1198E,"Rectangle Painting 2flows,graph matchings,graphs",2500
+1198F,"GCD Groups 2greedy,number theory,probabilities",2900
+1199A,"City Dayimplementation",1000
+1199B,"Water Lilygeometry,math",1000
+1200A,"Hotelierbrute force,data structures,implementation",800
+1200B,"Block Adventuredp,greedy",1200
+1200C,"Round Corridormath,number theory",1400
+1200D,"White Linesbrute force,data structures,dp,implementation,two pointers",1900
+1200E,"Compress Wordsbrute force,hashing,implementation,string suffix structures,strings",2000
+1200F,"Graph Travelerbrute force,data structures,dfs and similar,dp,graphs,implementation,math,number theory",2300
+1201A,"Important Examimplementation,strings",900
+1201B,"Zero Arraygreedy,math",1500
+1201C,"Maximum Medianbinary search,greedy,math,sortings",1400
+1201D,"Treasure Huntingbinary search,dp,greedy,implementation",2100
+1201E1,"Knightmare (easy)graphs,interactive,shortest paths",2900
+1201E2,"Knightmare (hard)graphs,interactive,shortest paths",3000
+1202A,"You Are Given Two Binary Strings...bitmasks,greedy",1100
+1202B,"You Are Given a Decimal String...brute force,dp,shortest paths",1700
+1202C,"You Are Given a WASD-string...brute force,data structures,dp,greedy,implementation,math,strings",2100
+1202D,"Print a 1337-string...combinatorics,constructive algorithms,math,strings",1900
+1202E,"You Are Given Some Strings...brute force,string suffix structures,strings",2400
+1202F,"You Are Given Some Letters...binary search,implementation,math",2700
+1203A,"Circle of Studentsimplementation",1000
+1203B,"Equal Rectanglesgreedy,math",1200
+1203C,"Common Divisorsimplementation,math",1300
+1203D1,"Remove the Substring (easy version)greedy,implementation",1600
+1203D2,"Remove the Substring (hard version)binary search,greedy,implementation,two pointers",1700
+1203E,"Boxersgreedy,sortings",1500
+1203F1,"Complete the Projects (easy version)greedy",2100
+1203F2,"Complete the Projects (hard version)dp,greedy",2300
+1204A,"BowWow and the Timetablemath",1000
+1204B,"Mislove Has Lost an Arraygreedy,math",900
+1204C,"Anna, Svyatoslav and Mapsdp,graphs,greedy,shortest paths",1700
+1204D1,"Kirk and a Binary String (easy version)brute force,greedy,strings",2000
+1204D2,"Kirk and a Binary String (hard version)data structures,greedy,math,strings",2100
+1204E,"Natasha, Sasha and the Prefix Sumscombinatorics,dp,math,number theory",2300
+1205A,"Almost Equalconstructive algorithms,greedy,math",1200
+1205B,"Shortest Cyclebitmasks,brute force,graphs,shortest paths",1900
+1205C,"Palindromic Pathsimplementation,interactive",2400
+1205D,"Almost Allconstructive algorithms,trees",2700
+1205E,"Expected Value Againcombinatorics,strings",3100
+1205F,"Beauty of a Permutationconstructive algorithms,math",3400
+1206A,"Choose Two Numbersmath,sortings",800
+1206B,"Make Product Equal Onedp,implementation",900
+1207A,"There Are Two Types Of Burgersbrute force,greedy,implementation,math",800
+1207B,"Square Fillingconstructive algorithms,greedy,implementation",1200
+1207C,"Gas Pipelinedp,greedy",1500
+1207D,"Number Of Permutationscombinatorics",1800
+1207E,"XOR Guessingbitmasks,interactive,math",1900
+1207F,"Remainder Problembrute force,data structures,implementation",2100
+1207G,"Indie Albumdata structures,dfs and similar,hashing,string suffix structures,strings,trees",2700
+1208A,XORinaccimath,900
+1208B,"Uniquenessbinary search,brute force,implementation,two pointers",1500
+1208C,"Magic Gridconstructive algorithms",1800
+1208D,"Restore Permutationbinary search,data structures,greedy,implementation",1900
+1208E,"Let Them Slidedata structures,implementation",2200
+1208F,"Bits And Piecesbitmasks,dfs and similar,dp,greedy",2600
+1208G,"Polygonsgreedy,math,number theory",2800
+1208H,"Red Blue Treedata structures,implementation,trees",3500
+1209A,"Paint the Numbersgreedy,implementation,math",800
+1209B,"Koala and Lightsimplementation,math,number theory",1300
+1209C,"Paint the Digitsconstructive algorithms,greedy,implementation",1500
+1209D,"Cow and Snacksdfs and similar,dsu,graphs",1700
+1209E1,"Rotate Columns (easy version)bitmasks,brute force,dp,greedy,sortings",2000
+1209E2,"Rotate Columns (hard version)bitmasks,dp,greedy,sortings",2500
+1209F,"Koala and Notebookdata structures,dfs and similar,graphs,shortest paths,strings,trees",2600
+1209G1,"Into Blocks (easy version)data structures,dsu,greedy,implementation,two pointers",2000
+1209G2,"Into Blocks (hard version)data structures",3200
+1209H,"Moving Walkwaysdata structures,greedy,math",3300
+1210A,"Anadi and Dominobrute force,graphs",1700
+1210B,"Marcin and Training Campbrute force,greedy",1700
+1210C,"Kamil and Making a Streammath,number theory,trees",2000
+1210D,"Konrad and Company Evaluationgraphs",2400
+1210E,"Wojtek and Card Tricksmath",2700
+1210F1,"Marek and Matching (easy version)brute force,probabilities",3100
+1210F2,"Marek and Matching (hard version)brute force,probabilities",3200
+1210G,"Mateusz and Escape Roomdp",3500
+1211A,"Three Problems*special problem,implementation",1000
+1211B,"Traveling Around the Golden Ring of Berland*special problem,implementation",1500
+1211C,"Ice Cream*special problem,greedy,sortings",1700
+1211D,"Teams*special problem,binary search,greedy,math",2000
+1211E,"Double Permutation Inc.*special problem,binary search,greedy",2000
+1211F,"kotlinkotlinkotlinkotlin...*special problem,graphs,implementation,strings",2300
+1211G,"King's Path*special problem,math,trees",2500
+1211H,"Road Repair in Treeland*special problem,binary search,dp,trees",3100
+1211I,"Unusual Graph*special problem,graphs",3000
+1213A,"Chips Movingmath",900
+1213B,"Bad Pricesdata structures,implementation",1100
+1213C,"Book Readingmath",1200
+1213D1,"Equalizing by Division (easy version)brute force,implementation",1500
+1213D2,"Equalizing by Division (hard version)brute force,math,sortings",1600
+1213E,"Two Small Stringsbrute force,constructive algorithms",1900
+1213F,"Unstable String Sortdata structures,dfs and similar,dsu,graphs,greedy,implementation,strings",2100
+1213G,"Path Queriesdivide and conquer,dsu,graphs,sortings,trees",1800
+1214A,"Optimal Currency Exchangebrute force,math",1400
+1214B,"Badgesbrute force,math",1100
+1214C,"Bad Sequencedata structures,greedy",1200
+1214D,"Treasure Islanddfs and similar,dp,flows,hashing",1900
+1214E,"Petya and Construction Setconstructive algorithms,graphs,math,sortings,trees",2000
+1214F,"Employmentgreedy,sortings",2700
+1214G,"Feeling Goodbitmasks,data structures",3200
+1214H,"Tiles Placementconstructive algorithms,dfs and similar,trees",2800
+1215A,"Yellow Cardsgreedy,implementation,math",1000
+1215B,"The Number of Productscombinatorics,dp,implementation",1400
+1215C,"Swap Lettersconstructive algorithms,greedy",1500
+1215D,"Ticket Gamegames,greedy,math",1700
+1215E,"Marblesbitmasks,dp",2200
+1215F,"Radio Stations2-sat",2700
+1216A,Prefixesstrings,800
+1216B,"Shootinggreedy,implementation,sortings",900
+1216C,"White Sheetgeometry,math",1700
+1216D,Swordsmath,1300
+1216E1,"Numerical Sequence (easy version)binary search,brute force,math",1900
+1216E2,"Numerical Sequence (hard version)binary search,math",2200
+1216F,"Wi-Fidata structures,dp,greedy",2100
+1217A,"Creating a Characterbinary search,math",1300
+1217B,"Zmei Gorynichgreedy,math",1600
+1217C,"The Number Of Good Substringsbinary search,bitmasks,brute force",1700
+1217D,"Coloring Edgesconstructive algorithms,dfs and similar,graphs",2100
+1217E,"Sum Queries?data structures,greedy,implementation,math",2300
+1217F,"Forced Online Queries Problemdata structures,divide and conquer,dsu,graphs,trees",2600
+1218A,"BubbleReactordp,graphs",2800
+1218B,"Guarding warehousesdata structures,geometry",3000
+1218C,"Jumping Transformersdp",2600
+1218D,"Xor Spanning Treedivide and conquer,fft,graphs",2400
+1218E,"Product Tuplesdivide and conquer,fft",2500
+1218F,"Workout plandata structures,greedy",1500
+1218G,"Alpha planetary systemconstructive algorithms,graphs,shortest paths",3000
+1218H,"Function Compositiondfs and similar",2900
+1218I,"The Light Square2-sat,dfs and similar,greedy",2100
+1219C,"Periodic integer numberimplementation,strings",1700
+1219G,Harvesterimplementation,2000
+1220A,"Cardsimplementation,sortings,strings",800
+1220B,"Multiplication Tablemath,number theory",1300
+1220C,"Substring Game in the Lessongames,greedy,strings",1300
+1220D,"Alex and Julianbitmasks,math,number theory",1900
+1220E,"Tourismdfs and similar,dp,dsu,graphs,greedy,trees",2200
+1220F,"Gardener Alexbinary search,data structures",2700
+1220G,Geolocationgeometry,3400
+1221A,"2048 Gamebrute force,greedy,math",1000
+1221B,"Knightsconstructive algorithms,greedy",1100
+1221C,"Perfect Teambinary search,math",1200
+1221D,"Make The Fence Great Againdp",1800
+1221E,"Game With Stringgames",2500
+1221F,"Choose a Squarebinary search,data structures,sortings",2400
+1221G,"Graph And Numbersbitmasks,brute force,combinatorics,dp,meet-in-the-middle",2900
+1223A,CMEmath,800
+1223B,"Strings Equalizationstrings",1000
+1223C,"Save the Naturebinary search,greedy",1600
+1223D,"Sequence Sortingdp,greedy,two pointers",2000
+1223E,"Paint the Treedp,sortings,trees",2100
+1223F,"Stack Exterminable Arraysdata structures,divide and conquer,dp,hashing",2600
+1223G,"Wooden Raftbinary search,math,number theory",3200
+1225A,"Forgetting Thingsmath",900
+1225B1,"TV Subscriptions (Easy Version)implementation",1000
+1225B2,"TV Subscriptions (Hard Version)implementation,two pointers",1300
+1225C,"p-binarybitmasks,brute force,math",1600
+1225D,"Power Productshashing,math,number theory",1800
+1225E,"Rock Is Pushbinary search,dp",2200
+1225F,"Tree Factoryconstructive algorithms,greedy,trees",2500
+1225G,"To Make 1bitmasks,constructive algorithms,dp,greedy,number theory",3100
+1227A,"Math Problemmath",1100
+1227B,"Boxconstructive algorithms",1200
+1227C,"Messyconstructive algorithms",1700
+1227D1,"Optimal Subsequences (Easy Version)data structures,greedy",1600
+1227D2,"Optimal Subsequences (Hard Version)data structures,greedy",1800
+1227E,"Arson In Berland Forestbinary search,graphs,graphs,shortest paths",2200
+1227F1,"Wrong Answer on test 233 (Easy Version)dp",2200
+1227F2,"Wrong Answer on test 233 (Hard Version)combinatorics,math",2400
+1227G,"Not Sameconstructive algorithms",2600
+1228A,"Distinct Digitsbrute force,implementation",800
+1228B,"Filling the Gridimplementation,math",1400
+1228C,"Primes and Multiplicationmath,number theory",1700
+1228D,"Complete Tripartitebrute force,constructive algorithms,graphs,hashing,implementation",1900
+1228E,"Another Filling the Gridcombinatorics,dp,math",2300
+1228F,"One Node is Goneconstructive algorithms,implementation,trees",2500
+1230A,"Dawid and Bags of Candiesbrute force,implementation",800
+1230B,"Ania and Minimizinggreedy,implementation",1000
+1231C,"Increasing Matrixgreedy",1100
+1231E,"Middle-Outconstructive algorithms,greedy,strings",2200
+1234A,"Equalize Prices Againmath",800
+1234B1,"Social Network (easy version)implementation",1000
+1234B2,"Social Network (hard version)data structures,implementation",1300
+1234C,"Pipesdp,implementation",1500
+1234D,"Distinct Characters Queriesdata structures",1600
+1234E,"Special Permutationsmath",2000
+1234F,"Yet Another Substring Reversebitmasks,dp",2200
+1236A,"Stonesbrute force,greedy,math",800
+1236B,"Alice and the List of Presentscombinatorics,math",1500
+1236C,"Labsconstructive algorithms,greedy,implementation",1300
+1236D,"Alice and the Dollbrute force,data structures,greedy,implementation",2300
+1236E,"Alice and the Unfair Gamebinary search,data structures,dp,dsu",2500
+1236F,"Alice and the Cactusdfs and similar,graphs,math,probabilities",3000
+1237A,"Balanced Rating Changesimplementation,math",1000
+1237B,"Balanced Tunneldata structures,sortings,two pointers",1300
+1237C1,"Balanced Removals (Easier)constructive algorithms,geometry,greedy",1700
+1237C2,"Balanced Removals (Harder)binary search,constructive algorithms,divide and conquer,greedy,implementation,sortings",1900
+1237D,"Balanced Playlistbinary search,data structures,implementation",2000
+1237E,"Balanced Binary Search Treesdp,math",2400
+1237F,"Balanced Domino Placementscombinatorics,dp",2600
+1237G,"Balanced Distributiondata structures,dp,greedy",3500
+1237H,"Balanced Reversalsconstructive algorithms",3300
+1238A,"Prime Subtractionmath,number theory",900
+1238B,"Kill `Em Allgreedy,sortings",1300
+1238C,"Standard Free2playdp,greedy,math",1600
+1238D,"AB-stringbinary search,combinatorics,dp,strings",1900
+1238E,"Keyboard Purchasebitmasks,dp",2200
+1238F,"The Maximum Subtreedfs and similar,dp,graphs,trees",2200
+1238G,"Adilbek and the Watering Systemdata structures,greedy,sortings",2700
+1239A,"Ivan the Fool and the Probability Theorycombinatorics,dp,math",1700
+1239B,"The World Is Just a Programming Task (Hard Version)implementation",2500
+1239C,"Queue in the Traindata structures,greedy,implementation",2300
+1239D,"Catowice City2-sat,dfs and similar,graph matchings,graphs",2400
+1239E,"Turtledp,implementation",3100
+1239F,"Swiper, no swiping!graphs,implementation",3400
+1240F,Footballgraphs,3100
+1242A,"Tile Paintingconstructive algorithms,math,number theory",1500
+1242B,"0-1 MSTdfs and similar,dsu,graphs,sortings",1900
+1242C,"Sum Balancebitmasks,dfs and similar,dp,graphs",2400
+1242E,"Planar Perimeterconstructive algorithms,graphs",3200
+1243A,"Maximum Squareimplementation",800
+1243B1,"Character Swap (Easy Version)strings",1000
+1243B2,"Character Swap (Hard Version)strings",1600
+1244A,"Pens and Pencilsmath",800
+1244B,"Rooms and Staircasesbrute force,implementation",1000
+1244C,"The Football Seasonbrute force,math,number theory",2000
+1244D,"Paint the Treebrute force,constructive algorithms,dp,graphs,implementation,trees",1800
+1244E,"Minimizing Differencebinary search,constructive algorithms,greedy,sortings,ternary search,two pointers",2000
+1244F,"Chipsconstructive algorithms,implementation",2300
+1244G,"Running in Pairsconstructive algorithms,greedy,math",2400
+1245A,"Good ol' Numbers Coloringmath,number theory",1000
+1245B,"Restricted RPSconstructive algorithms,dp,greedy",1200
+1245C,"Constanze's Machinedp",1400
+1245D,"Shichikuji and Power Griddsu,graphs,greedy,shortest paths,trees",1900
+1245E,"Hyakugoku and Laddersdp,probabilities,shortest paths",2300
+1245F,"Daniel and Spring Cleaningbitmasks,brute force,combinatorics,dp",2300
+1246F,"Cursor Distance",3500
+1248A,"Integer Pointsgeometry,math",1000
+1248B,"Grow The Treegreedy,math,sortings",900
+1248D1,"The World Is Just a Programming Task (Easy Version)brute force,dp,greedy,implementation",2000
+1249A,"Yet Another Dividing into Teamsmath",800
+1249B1,"Books Exchange (easy version)dsu,math",1000
+1249B2,"Books Exchange (hard version)dfs and similar,dsu,math",1300
+1249C1,"Good Numbers (easy version)brute force,greedy,implementation",1300
+1249C2,"Good Numbers (hard version)binary search,greedy,math,meet-in-the-middle",1500
+1249D1,"Too Many Segments (easy version)greedy",1800
+1249D2,"Too Many Segments (hard version)data structures,greedy,sortings",1800
+1249E,"By Elevator or Stairs?dp,shortest paths",1700
+1249F,"Maximum Weight Subsetdp,trees",2200
+1250A,Berstagramimplementation,1400
+1250B,"The Feast and the Busbrute force,constructive algorithms,greedy,math",1800
+1250C,"Trip to Saint Petersburgdata structures",2100
+1250D,"Conference Problemdp",3000
+1250E,"The Coronationgraphs,implementation",2300
+1250F,"Data Centerbrute force,implementation",800
+1250G,"Discarding Gamedp,greedy,two pointers",2300
+1250H,"Happy Birthdaymath",1500
+1250I,"Show Must Go Onbinary search,brute force,greedy,shortest paths",3100
+1250J,"The Paradebinary search,greedy",1800
+1250K,"Projectorsflows,graphs",3100
+1250L,"Divide The Studentsbinary search,greedy,math",1500
+1250M,"SmartGardenconstructive algorithms,divide and conquer",2500
+1250N,"Wiresdfs and similar,graphs,greedy",2000
+1251A,"Broken Keyboardbrute force,strings,two pointers",1000
+1251B,"Binary Palindromesgreedy,strings",1400
+1251C,"Minimize The Integergreedy,two pointers",1600
+1251D,"Salary Changingbinary search,greedy,sortings",1900
+1251E1,"Voting (Easy Version)data structures,dp,greedy",2300
+1251E2,"Voting (Hard Version)binary search,data structures,greedy",2400
+1251F,"Red-White Fencecombinatorics,fft",2500
+1252A,"Copying Homework",1000
+1252B,"Cleaning Robotsdp,trees",2300
+1252C,"Even Pathdata structures,implementation",1600
+1252D,"Find String in a Griddata structures,dp,strings,trees",3000
+1252E,"Songwritergreedy,two pointers",2200
+1252F,"Regular Forestationhashing,trees",2400
+1252G,"Performance Reviewdata structures",2100
+1252H,"Twin Buildingsgreedy,implementation",1800
+1252I,"Mission Possible",3000
+1252J,"Tiling Terracebrute force,dp",2300
+1252K,"Addition Robotdata structures,math,matrices",2100
+1252L,"Road Constructionflows,graphs",2300
+1253A,"Single Pushimplementation",1000
+1253B,"Silly Mistakegreedy,implementation",1400
+1253C,"Sweets Eatingdp,greedy,math,sortings",1500
+1253D,"Harmonious Graphconstructive algorithms,dfs and similar,dsu,graphs,greedy,sortings",1700
+1253E,"Antenna Coveragedata structures,dp,greedy,sortings",2200
+1253F,"Cheap Robotbinary search,dsu,graphs,shortest paths,trees",2500
+1254A,"Feeding Chickenconstructive algorithms,greedy,implementation",1700
+1254B1,"Send Boxes to Alice (Easy Version)constructive algorithms,greedy,math,number theory,ternary search,two pointers",1800
+1254B2,"Send Boxes to Alice (Hard Version)constructive algorithms,greedy,math,number theory,ternary search,two pointers",2100
+1254C,"Point Orderingconstructive algorithms,geometry,interactive,math",2300
+1254D,"Tree Queriesdata structures,probabilities,trees",2700
+1254E,"Send Tree to Charliecombinatorics,dfs and similar,dsu,trees",3300
+1255A,"Changing Volumemath",800
+1255B,"Fridge Lockersgraphs,implementation",1100
+1255C,"League of Leesinsconstructive algorithms,implementation",1600
+1256A,"Payment Without Changemath",1000
+1256B,"Minimize the Permutationgreedy",1400
+1256C,"Platforms Jumpinggreedy",1700
+1256D,"Binary String Minimizinggreedy",1500
+1256E,"Yet Another Division Into Teamsdp,greedy,sortings",2000
+1256F,"Equalizing Two Stringsconstructive algorithms,sortings,strings",2000
+1257A,"Two Rival Studentsgreedy,math",800
+1257B,"Magic Stickmath",1000
+1257C,"Dominated Subarraygreedy,implementation,sortings,strings,two pointers",1200
+1257D,"Yet Another Monster Killing Problembinary search,data structures,dp,greedy,sortings,two pointers",1700
+1257E,"The Contestdata structures,dp,greedy",2000
+1257F,"Make Them Similarbitmasks,brute force,hashing,meet-in-the-middle",2400
+1257G,"Divisor Setdivide and conquer,fft,greedy,math,number theory",2600
+1260A,Heatingmath,1000
+1260B,"Obtain Two Zeroesbinary search,math",1300
+1260C,"Infinite Fencegreedy,math,number theory",1700
+1260D,"A Game with Trapsbinary search,dp,greedy,sortings",1900
+1260E,"Tournamentbrute force,dp,greedy",2400
+1260F,"Colored Treedata structures,trees",2700
+1261F,"Xor-Setbitmasks,divide and conquer,math",3100
+1263A,"Sweet Problemmath",1100
+1263B,"PIN Codesgreedy,implementation",1400
+1263C,"Everyone is a Winner!binary search,math,meet-in-the-middle,number theory",1400
+1263D,"Secret Passwordsdfs and similar,dsu,graphs",1500
+1263E,"Editordata structures,implementation",2100
+1263F,"Economic Difficultiesdata structures,dfs and similar,dp,flows,graphs,trees",2400
+1264A,"Beautiful Regional Contestgreedy,implementation",1500
+1264B,"Beautiful Sequencebrute force,constructive algorithms,greedy",1900
+1264C,"Beautiful Mirrors with queriesdata structures,probabilities",2400
+1264D1,"Beautiful Bracket Sequence (easy version)combinatorics,dp,probabilities",2600
+1264D2,"Beautiful Bracket Sequence (hard version)combinatorics,probabilities",2900
+1264E,"Beautiful Leagueconstructive algorithms,flows,graph matchings",2700
+1264F,"Beautiful Fibonacci Problemconstructive algorithms,number theory",3500
+1265A,"Beautiful Stringconstructive algorithms,greedy",1000
+1265B,"Beautiful Numbersdata structures,implementation,math,two pointers",1300
+1265E,"Beautiful Mirrorsdata structures,dp,math,probabilities",2100
+1266A,"Competitive Programmerchinese remainder theorem,math",1000
+1266B,"Dice Towerconstructive algorithms,math",1000
+1266C,"Diverse Matrixconstructive algorithms,greedy,math,number theory",1400
+1266D,"Decreasing Debtsconstructive algorithms,data structures,graphs,greedy,implementation,math,two pointers",2000
+1266E,"Spaceship Solitairedata structures,greedy,implementation",2100
+1266F,"Almost Same Distancedfs and similar,graphs",2900
+1266G,"Permutation Concatenationstring suffix structures",3300
+1266H,"Red-Blue Graphdp,graphs,math,matrices,meet-in-the-middle",3400
+1267A,"Apprentice Learning Trajectory",2400
+1267B,"Balls of Buma",900
+1267C,"Cactus Revengeconstructive algorithms",3500
+1267D,"DevOps Best Practicesconstructive algorithms",2800
+1267E,Electionsgreedy,1700
+1267F,"Foolprüf Securitygraphs",2600
+1267G,"Game Relicsmath,probabilities",3000
+1267H,"Help BerLineconstructive algorithms",3200
+1267I,"Intriguing Selectionbrute force,constructive algorithms,implementation,interactive,sortings",2600
+1267J,"Just Arrange the Iconsgreedy,implementation,math",1800
+1267K,"Key Storagecombinatorics,math",2100
+1267L,"Lexicographyconstructive algorithms,strings",1800
+1268A,"Long Beautiful Integerconstructive algorithms,greedy,implementation,strings",1700
+1268B,"Domino for Youngdp,greedy,math",2000
+1268C,"K Integersbinary search,data structures",2300
+1268D,"Invertation in Tournamentbrute force,divide and conquer,graphs,math",3200
+1268E,"Happy Cactusdp",3400
+1269A,"Equationbrute force,math",800
+1269B,"Modulo Equalitybrute force,sortings",1500
+1270A,"Card Gamegames,greedy,math",800
+1270B,"Interesting Subarrayconstructive algorithms,greedy,math",1200
+1270C,"Make Goodbitmasks,constructive algorithms,math",1400
+1270D,"Strange Deviceconstructive algorithms,interactive,math,sortings",1900
+1270E,"Divide Pointsconstructive algorithms,geometry,math",2300
+1270F,"Awesome Substringsmath,strings",2600
+1270G,"Subset with Zero Sumconstructive algorithms,dfs and similar,graphs,math",2700
+1270H,"Number of Componentsdata structures",3300
+1270I,"Xor on Figuresconstructive algorithms,fft,math",3500
+1271A,"Suitsbrute force,greedy,math",800
+1271B,"Blocksgreedy,math",1300
+1271C,"Shawarma Tentbrute force,geometry,greedy,implementation",1300
+1271D,"Portalsdata structures,dp,greedy,implementation,sortings",2100
+1271E,"Common Numberbinary search,combinatorics,dp,math",2100
+1271F,"Divide The Studentsbrute force",2700
+1272A,"Three Friendsbrute force,greedy,math,sortings",900
+1272B,"Snow Walking Robotconstructive algorithms,greedy,implementation",1200
+1272C,"Yet Another Broken Keyboardcombinatorics,dp,implementation",1200
+1272D,"Remove One Elementbrute force,dp",1500
+1272E,"Nearest Opposite Paritydfs and similar,graphs,shortest paths",1900
+1272F,"Two Bracket Sequencesdp,strings,two pointers",2200
+1275B,"Code Review*special problem",0
+1275D,"Storage2*special problem",0
+1275E2,"Контрольная сумма*special problem",0
+1275F,"Шардирование постов*special problem,binary search,interactive",0
+1276A,"As Simple as One and Twodp,greedy",1400
+1276B,"Two Fairscombinatorics,dfs and similar,dsu,graphs",1900
+1276C,"Beautiful Rectanglebrute force,combinatorics,constructive algorithms,data structures,greedy,math",2300
+1276D,"Tree Eliminationdp,trees",2900
+1276E,"Four Stonesconstructive algorithms",3500
+1276F,"Asterisk Substringsstring suffix structures",3400
+1277A,"Happy Birthday, Polycarp!implementation",1000
+1277B,"Make Them Oddgreedy,number theory",1200
+1277D,"Let's Play the Words?data structures,hashing,implementation,math",1900
+1278A,"Shuffle Hashingbrute force,implementation,strings",1000
+1278B,"A and Bgreedy,math",1500
+1278C,"Berry Jamdata structures,dp,greedy,implementation",1700
+1278D,"Segment Treedata structures,dsu,graphs,trees",2100
+1278E,"Tests for problem Dconstructive algorithms,dfs and similar,divide and conquer,trees",2200
+1278F,"Cardscombinatorics,dp,math,number theory,probabilities",2600
+1279A,"New Year Garlandmath",900
+1279B,"Verse For Santabinary search,brute force,implementation",1300
+1279C,"Stack of Presentsdata structures,implementation",1400
+1279D,"Santa's Botcombinatorics,math,probabilities",1700
+1279E,"New Year Permutationscombinatorics,dp",2700
+1279F,"New Year and Handle Changebinary search,dp",2800
+1280A,"Cut and Pasteimplementation,math",1700
+1280B,"Beingawesomeismimplementation,math",1800
+1280C,"Jeremy Bearimydfs and similar,graphs,greedy,trees",2000
+1280D,"Miss Punyversedp,greedy,trees",2500
+1280E,"Kirchhoff's Current Lossmath",2900
+1280F,"Intergalactic Sliding Puzzlecombinatorics,constructive algorithms,math",3400
+1281A,"Suffix Threeimplementation",800
+1281B,"Azamon Web Servicesgreedy",1600
+1282A,"Temporarily unavailableimplementation,math",900
+1282B1,"K for the Price of One (Easy Version)dp,greedy,sortings",1400
+1282B2,"K for the Price of One (Hard Version)dp,greedy,sortings",1600
+1282C,"Petya and Examgreedy,sortings,two pointers",1800
+1282D,"Enchanted Artifactconstructive algorithms,interactive,strings",2300
+1282E,"The Cake Is a Lieconstructive algorithms,data structures,dfs and similar,graphs",2400
+1283A,"Minutes Before the New Yearmath",800
+1283B,"Candies Divisionmath",900
+1283C,"Friends and Giftsconstructive algorithms,data structures,math",1500
+1283D,"Christmas Treesgraphs,greedy,shortest paths",1800
+1283E,"New Year Partiesdp,greedy",1800
+1283F,"DIY Garlandconstructive algorithms,greedy,trees",2200
+1284A,"New Year and Namingimplementation,strings",800
+1284B,"New Year and Ascent Sequencebinary search,combinatorics,data structures,dp,implementation,sortings",1400
+1284C,"New Year and Permutationcombinatorics,math",1600
+1284D,"New Year and Conferencebinary search,data structures,hashing,sortings",2100
+1284E,"New Year and Castle Constructioncombinatorics,geometry,math,sortings",2500
+1284F,"New Year and Social Networkdata structures,graph matchings,graphs,math,trees",3200
+1284G,Seollalgraphs,3300
+1285A,"Mezo Playing Zomamath",800
+1285B,"Just Eat It!dp,greedy,implementation",1300
+1285C,"Fadi and LCMbrute force,math,number theory",1400
+1285D,"Dr. Evil Underscoresbitmasks,brute force,dfs and similar,divide and conquer,dp,greedy,strings,trees",1900
+1285E,"Delete a Segmentbrute force,constructive algorithms,data structures,dp,graphs,sortings,trees,two pointers",2300
+1285F,"Classical?binary search,combinatorics,number theory",2900
+1286A,"Garlanddp,greedy,sortings",1800
+1286B,"Numbers on Treeconstructive algorithms,data structures,dfs and similar,graphs,greedy,trees",1800
+1286C1,"Madhouse (Easy version)brute force,constructive algorithms,interactive,math",2400
+1286C2,"Madhouse (Hard version)brute force,constructive algorithms,hashing,interactive,math",2800
+1286D,"LCCdata structures,math,matrices,probabilities",3100
+1286E,"Fedya the Potter Strikes Backdata structures,strings",3200
+1286F,"Harry The Potterbrute force,constructive algorithms,dp,fft,implementation,math",3100
+1287A,"Angry Studentsgreedy,implementation",800
+1287B,"Hypersetbrute force,data structures,implementation",1500
+1288A,"Deadlinebinary search,brute force,math,ternary search",1100
+1288B,"Yet Another Meme Problemmath",1100
+1288C,"Two Arrayscombinatorics,dp",1600
+1288D,"Minimax Problembinary search,bitmasks,dp",2000
+1288E,"Messenger Simulatordata structures",2000
+1288F,"Red-Blue Graphconstructive algorithms,flows",2900
+1290A,"Mind Controlbrute force,data structures,implementation",1600
+1290B,"Irreducible Anagramsbinary search,constructive algorithms,data structures,strings,two pointers",1800
+1290C,"Prefix Enlightenmentdfs and similar,dsu,graphs",2400
+1290D,"Coffee Varieties (hard version)constructive algorithms,graphs,interactive",3000
+1290E,"Cartesian Treedata structures",3300
+1290F,"Making Shapesdp",3500
+1291A,"Even But Not Evengreedy,math,strings",900
+1291B,"Array Sharpeninggreedy,implementation",1300
+1291F,"Coffee Varieties (easy version)graphs,interactive",2800
+1292A,"NEKO's Maze Gamedata structures,dsu,implementation",1400
+1292B,"Aroma's Searchbrute force,constructive algorithms,geometry,greedy,implementation",1700
+1292C,"Xenon's Attack on the Gangscombinatorics,dfs and similar,dp,greedy,trees",2300
+1292D,"Chaotic V.dp,graphs,greedy,math,number theory,trees",2700
+1292E,"Rin and The Unknown Flowerconstructive algorithms,greedy,interactive,math",3500
+1292F,"Nora's Toy Boxesbitmasks,combinatorics,dp",3500
+1293A,"ConneR and the A.R.C. Markland-Nbinary search,brute force,implementation",1100
+1293B,"JOE is on TV!combinatorics,greedy,math",1000
+1294A,"Collecting Coinsmath",800
+1294B,"Collecting Packagesimplementation,sortings",1200
+1294C,"Product of Three Numbersgreedy,math,number theory",1300
+1294D,"MEX maximizingdata structures,greedy,implementation,math",1600
+1294E,"Obtain a Permutationgreedy,implementation,math",1900
+1294F,"Three Paths on a Treedfs and similar,dp,greedy,trees",2000
+1295A,"Display The Numbergreedy",900
+1295B,"Infinite Prefixesmath,strings",1700
+1295C,"Obtain The Stringdp,greedy,strings",1600
+1295D,"Same GCDsmath,number theory",1800
+1295E,"Permutation Separationdata structures,divide and conquer",2200
+1295F,"Good Contestcombinatorics,dp,probabilities",2700
+1296A,"Array with Odd Summath",800
+1296B,"Food Buyingmath",900
+1296C,"Yet Another Walking Robotdata structures,implementation",1500
+1296D,"Fight with Monstersgreedy,sortings",1500
+1296E1,"String Coloring (easy version)constructive algorithms,dp,graphs,greedy,sortings",1800
+1296E2,"String Coloring (hard version)data structures,dp",2000
+1297A,"Likes Display*special problem,implementation",0
+1297C,"Dream Team*special problem,greedy",0
+1297E,"Modernization of Treeland*special problem,dfs and similar,trees",0
+1297G,"M-numbers*special problem,dp,math",0
+1297I,"Falling Blocks*special problem,data structures",0
+1299A,"Anu Has a Functionbrute force,greedy,math",1500
+1299B,Aerodynamicgeometry,1800
+1299C,"Water Balancedata structures,geometry,greedy",2100
+1299D,"Around the Worldbitmasks,combinatorics,dfs and similar,dp,graphs,graphs,math,trees",3000
+1299E,"So Meaninteractive,math",3400
+1300A,"Non-zeroimplementation,math",800
+1300B,"Assigning to Classesgreedy,implementation,sortings",1000
+1301A,"Three Stringsimplementation,strings",800
+1301B,"Motarack's Birthdaybinary search,greedy,ternary search",1500
+1301C,"Ayoub's functionbinary search,combinatorics,greedy,math,strings",1700
+1301D,"Time to Runconstructive algorithms,graphs,implementation",2000
+1301E,"Nanosoftbinary search,data structures,dp,implementation",2500
+1302A,"Nash equilibrium",0
+1302C,"Segment tree or Fenwick?data structures",0
+1302D,Dijkstra,0
+1302F,"Keep talking and nobody explodes -- easybitmasks,brute force,expression parsing",0
+1302H,"Who needs suffix structures?",0
+1302J,"Keep talking and nobody explodes -- hard",0
+1303A,"Erasing Zeroesimplementation,strings",800
+1303B,"National Projectmath",1400
+1303C,"Perfect Keyboarddfs and similar,greedy,implementation",1600
+1303D,"Fill The Bagbitmasks,greedy",1900
+1303E,"Erase Subsequencesdp,strings",2200
+1303F,"Number of Componentsdsu,implementation",2800
+1303G,"Sum of Prefix Sumsdata structures,divide and conquer,geometry,trees",2700
+1304A,"Two Rabbitsmath",800
+1304B,"Longest Palindromebrute force,constructive algorithms,greedy,implementation,strings",1100
+1304C,"Air Conditionerdp,greedy,implementation,sortings,two pointers",1500
+1304D,"Shortest and Longest LISconstructive algorithms,graphs,greedy,two pointers",1800
+1304E,"1-Trees and Queriesdata structures,dfs and similar,shortest paths,trees",2000
+1304F1,"Animal Observation (easy version)data structures,dp",2300
+1304F2,"Animal Observation (hard version)data structures,dp,greedy",2400
+1305A,"Kuroni and the Giftsbrute force,constructive algorithms,greedy,sortings",800
+1305B,"Kuroni and Simple Stringsconstructive algorithms,greedy,strings,two pointers",1200
+1305C,"Kuroni and Impossible Calculationbrute force,combinatorics,math,number theory",1600
+1305D,"Kuroni and the Celebrationconstructive algorithms,dfs and similar,interactive,trees",1900
+1305E,"Kuroni and the Score Distributionconstructive algorithms,greedy,implementation,math",2200
+1305F,"Kuroni and the Punishmentmath,number theory,probabilities",2500
+1305G,"Kuroni and Antihypebitmasks,brute force,dp,dsu,graphs",3500
+1305H,"Kuroni the Private Tutorbinary search,greedy",3500
+1307A,"Cow and Haybalesgreedy,implementation",800
+1307B,"Cow and Friendgeometry,greedy,math",1300
+1307C,"Cow and Messagebrute force,dp,math,strings",1500
+1307D,"Cow and Fieldsbinary search,data structures,dfs and similar,graphs,greedy,shortest paths,sortings",1900
+1307E,"Cow and Treatsbinary search,combinatorics,dp,greedy,implementation,math",2500
+1307F,"Cow and Vacationdfs and similar,dsu,trees",3300
+1307G,"Cow and Exerciseflows,graphs,shortest paths",3100
+1310A,"Recommendationsdata structures,greedy,sortings",1700
+1310B,"Double Eliminationdp,implementation",2500
+1310C,"Au Pont Rougebinary search,dp,strings",2800
+1310D,"Tourismdp,graphs,probabilities",2300
+1310E,"Strange Functiondp",2900
+1310F,"Bad Cryptographymath,number theory",3400
+1311A,"Add Odd or Subtract Evengreedy,implementation,math",800
+1311B,"WeirdSortdfs and similar,sortings",1200
+1311C,"Perform the Combobrute force",1300
+1311D,"Three Integersbrute force,math",2000
+1311E,"Construct the Binary Treebrute force,constructive algorithms,trees",2200
+1311F,"Moving Pointsdata structures,divide and conquer,implementation,sortings",1900
+1312A,"Two Regular Polygonsgeometry,greedy,math,number theory",800
+1312B,"Bogosortconstructive algorithms,sortings",1000
+1312C,"Adding Powersbitmasks,greedy,implementation,math,number theory,ternary search",1400
+1312D,"Count the Arrayscombinatorics,math",1700
+1312E,"Array Shrinkingdp,greedy",2100
+1312F,"Attack on Red Kingdomgames,two pointers",2500
+1312G,"Autocompletiondata structures,dfs and similar,dp",2600
+1313A,"Fast Food Restaurantbrute force,greedy,implementation",900
+1313B,"Different Rulesconstructive algorithms,greedy,implementation,math",1700
+1313C1,"Skyscrapers (easy version)brute force,data structures,dp,greedy",1500
+1313C2,"Skyscrapers (hard version)data structures,dp,greedy",1900
+1313D,"Happy New Yearbitmasks,dp,implementation",2500
+1313E,"Concatenation with intersectiondata structures,hashing,strings,two pointers",2700
+1315A,"Dead Pixelimplementation",800
+1315B,"Homecomingbinary search,dp,greedy,strings",1300
+1315C,"Restoring Permutationgreedy",1200
+1316A,"Grade Allocationimplementation",800
+1316B,"String Modificationbrute force,constructive algorithms,implementation,sortings,strings",1400
+1316C,"Primitive Primesconstructive algorithms,math,ternary search",1800
+1316D,"Nash Matrixconstructive algorithms,dfs and similar,graphs,implementation",2000
+1316E,"Team Buildingbitmasks,dp,greedy,sortings",2300
+1316F,"Battalion Strengthdata structures,divide and conquer,probabilities",2800
+1320A,"Journey Planningdata structures,dp,greedy,math,sortings",1400
+1320B,"Navigation Systemdfs and similar,graphs,shortest paths",1700
+1320C,"World of Darkraft: Battle for Azathothbrute force,data structures,sortings",2000
+1320D,"Reachable Stringsdata structures,hashing,strings",2500
+1320E,"Treeland and Virusesdata structures,dfs and similar,dp,shortest paths,trees",3000
+1320F,"Blocks and Sensorsbrute force",3500
+1321A,"Contest for Robotsgreedy",900
+1321C,"Remove Adjacentbrute force,constructive algorithms,greedy,strings",1600
+1322A,"Unusual Competitionsgreedy",1300
+1322B,"Presentbinary search,bitmasks,constructive algorithms,data structures,math,sortings",2100
+1322C,"Instant Noodlesgraphs,hashing,math,number theory",2300
+1322D,"Reality Showbitmasks,dp",2800
+1322E,"Median Mountain Rangedata structures",3300
+1322F,"Assigning Faresdp,trees",3500
+1323A,"Even Subset Sum Problembrute force,dp,greedy,implementation",800
+1323B,"Count Subrectanglesbinary search,greedy,implementation",1500
+1324A,"Yet Another Tetris Problemimplementation,number theory",900
+1324B,"Yet Another Palindrome Problembrute force,strings",1100
+1324C,"Frog Jumpsbinary search,data structures,dfs and similar,greedy,implementation",1100
+1324D,"Pair of Topicsbinary search,data structures,sortings,two pointers",1400
+1324E,"Sleeping Scheduledp,implementation",1700
+1324F,"Maximum White Subtreedfs and similar,dp,graphs,trees",1800
+1325A,"EhAb AnD gCdconstructive algorithms,greedy,number theory",800
+1325B,"CopyCopyCopyCopyCopygreedy,implementation",800
+1325C,"Ehab and Path-etic MEXsconstructive algorithms,dfs and similar,greedy,trees",1500
+1325D,"Ehab the Xorcistbitmasks,constructive algorithms,greedy,number theory",1700
+1325E,"Ehab's REAL Number Theory Problembrute force,dfs and similar,graphs,number theory,shortest paths",2600
+1325F,"Ehab's Last Theoremconstructive algorithms,dfs and similar,graphs,greedy",2500
+1326A,"Bad Ugly Numbersconstructive algorithms,number theory",1000
+1326B,"Maximumsimplementation,math",900
+1326C,"Permutation Partitionscombinatorics,greedy,math",1300
+1326D1,"Prefix-Suffix Palindrome (Easy version)hashing,string suffix structures,strings",1500
+1326D2,"Prefix-Suffix Palindrome (Hard version)binary search,greedy,hashing,string suffix structures,strings",1800
+1326E,"Bombsdata structures,two pointers",2400
+1326F1,"Wise Men (Easy Version)bitmasks,brute force,dp,meet-in-the-middle",2600
+1326F2,"Wise Men (Hard Version)bitmasks,dp,math",3200
+1326G,"Spiderweb Treesdp,geometry,trees",3500
+1327A,"Sum of Odd Integersmath",1100
+1327B,"Princesses and Princesbrute force,graphs,greedy",1200
+1327C,"Game with Chipsconstructive algorithms,implementation",1600
+1327D,"Infinite Pathbrute force,dfs and similar,graphs,math,number theory",2200
+1327E,"Count The Blockscombinatorics,dp,math",1800
+1327F,"AND Segmentsbitmasks,combinatorics,data structures,dp,two pointers",2500
+1327G,"Letters and Question Marksbitmasks,dp,string suffix structures",2800
+1328A,"Divisibility Problemmath",800
+1328B,"K-th Beautiful Stringbinary search,brute force,combinatorics,implementation,math",1300
+1328C,"Ternary XORgreedy,implementation",1200
+1328D,"Carouselconstructive algorithms,dp,graphs,greedy,math",1800
+1328E,"Tree Queriesdfs and similar,graphs,trees",1900
+1328F,"Make k Equalgreedy",2200
+1329A,"Dreamoon Likes Coloringconstructive algorithms,greedy,implementation,math",1800
+1329B,"Dreamoon Likes Sequencesbitmasks,combinatorics,math",1700
+1329C,"Drazil Likes Heapconstructive algorithms,data structures,greedy,implementation",2400
+1329D,"Dreamoon Likes Stringsconstructive algorithms,data structures",3100
+1329E,"Dreamoon Loves AAbinary search,greedy",3300
+1330A,"Dreamoon and Ranking Collectionimplementation",900
+1330B,"Dreamoon Likes Permutationsimplementation,math",1400
+1331B,"Limericks*special problem,math,number theory",0
